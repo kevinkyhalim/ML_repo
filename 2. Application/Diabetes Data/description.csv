@@ -1,0 +1,80 @@
+Description
+"
+
+# **Diabetes Dataset Description**  
+
+## **Overview**  
+This dataset contains medical and symptomatic information of individuals to determine whether they have diabetes or not. The dataset includes both numerical and categorical features related to common symptoms and conditions associated with diabetes. The target variable is **""class""**, which indicates whether the person is diabetic (**Positive**) or not (**Negative**).  
+
+This dataset can be useful for predictive modeling, medical research, and early diabetes detection through machine learning techniques.  
+
+## **Dataset Characteristics**  
+- **Total Features**: 16 (1 numerical, 15 categorical)  
+- **Target Variable**: ""class"" (Positive/Negative)  
+- **Feature Types**:  
+  - **Numerical**: Age  
+  - **Categorical**: Gender and 14 symptom-based attributes  
+
+---
+
+## **Feature Descriptions**  
+
+#### **1. Age** *(Numerical)*  
+- Represents the age of the individual.  
+- Higher age might correlate with a higher risk of diabetes.  
+
+#### **2. Gender** *(Categorical: Male/Female)*  
+- Indicates the gender of the individual.  
+- Some diabetes risk factors may vary based on gender.  
+
+#### **3. Polyuria** *(Categorical: Yes/No)*  
+- Excessive urination, a common symptom of diabetes due to high blood sugar levels.  
+
+#### **4. Polydipsia** *(Categorical: Yes/No)*  
+- Excessive thirst, often caused by frequent urination and dehydration.  
+
+### **5. Sudden Weight Loss** *(Categorical: Yes/No)*  
+- Unexplained weight loss, a possible sign of uncontrolled diabetes.  
+
+#### **6. Weakness** *(Categorical: Yes/No)*  
+- General body weakness, which can be linked to high blood sugar levels.  
+
+#### **7. Polyphagia** *(Categorical: Yes/No)*  
+- Increased hunger, often due to the body's inability to use glucose properly.  
+
+#### **8. Genital Thrush** *(Categorical: Yes/No)*  
+- Fungal infections in the genital area, which can be more common in diabetics.  
+
+#### **9. Visual Blurring** *(Categorical: Yes/No)*  
+- Blurred vision, which can occur due to fluctuating blood sugar levels affecting eye lenses.  
+
+#### **10. Itching** *(Categorical: Yes/No)*  
+- Persistent itching, often linked to dry skin or fungal infections in diabetics.  
+
+#### **11. Irritability** *(Categorical: Yes/No)*  
+- Mood swings and irritability, which can result from blood sugar fluctuations.  
+
+#### **12. Delayed Healing** *(Categorical: Yes/No)*  
+- Slow healing of wounds, a common issue in diabetics due to poor circulation.  
+
+#### **13. Partial Paresis** *(Categorical: Yes/No)*  
+- Partial muscle weakness or paralysis, which can be linked to nerve damage from diabetes.  
+
+#### **14. Muscle Stiffness** *(Categorical: Yes/No)*  
+- Difficulty in muscle movement, possibly due to diabetic neuropathy.  
+
+#### **15. Alopecia** *(Categorical: Yes/No)*  
+- Hair loss, which may be associated with metabolic imbalances in diabetes.  
+
+#### **16. Obesity** *(Categorical: Yes/No)*  
+- Indicates whether the individual is obese, which is a significant risk factor for diabetes.  
+
+---
+
+## **Target Variable**  
+
+#### **Class** *(Categorical: Positive/Negative)*  
+- **Positive**: The individual has been diagnosed with diabetes.  
+- **Negative**: The individual does not have diabetes.  
+
+    "

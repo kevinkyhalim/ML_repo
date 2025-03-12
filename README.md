@@ -1,7 +1,6 @@
 # ML_repo
 Contains both my learnings &amp; projects involving machine learning
 
+1. Learning
 
-## Subheader
-
-Testing my git skills
+2. Application
