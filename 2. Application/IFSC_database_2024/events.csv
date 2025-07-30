@@ -1,0 +1,986 @@
+event_id,name,start_date,end_date,location,category
+65,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,20/8/20,22/8/20,Briançon,World Cup
+70,IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,24/2/20,2/3/20,Los Angeles,Continental
+72,IFSC Europe - Continental Youth Cup (B) - Soure (POR) 2020 - CANCELLED,6/11/20,8/11/20,Soure,Continental
+85,"IFSC Europe - Continental Cup (L,S) - Belgrad (SRB) 2020 - CANCELLED",13/8/20,16/8/20,Belgrad,Continental
+87,"IFSC Europe - Continental Youth Championships (B,L,S) - Perm (RUS) 2020 - POSTPONED",21/10/20,28/10/20,Perm,Continental
+100,UIAA Worldcup - Wien 1991,25/4/91,26/4/91,W-Wi,World Cup
+101,UIAA Worldcup - Clusone 1991,29/8/91,30/8/91,W-Cl,World Cup
+102,UIAA Worldcup - Innsbruck 1991,19/9/91,20/9/91,W-In,World Cup
+103,UIAA World Championship - Frankfurt 1991,1/10/91,2/10/91,WM-F,World Championship
+104,UIAA Worldcup - Tokio 1991,15/10/91,16/10/91,W-To,World Cup
+105,UIAA Worldcup - Nürnberg 1991,30/10/91,31/10/91,W-Nü,World Cup
+106,UIAA Worldcup - Birmingham 1991,4/12/91,5/12/91,W-Bi,World Cup
+113,UIAA Worldcup - Zürich 1992,30/4/92,1/5/92,W-Zü,World Cup
+114,UIAA Worldcup - Kobe 1992,7/10/92,8/10/92,W-Ko,World Cup
+115,UIAA Worldcup - Nürnberg 1992,29/10/92,30/10/92,W-Nü,World Cup
+116,UIAA Worldcup - St. Pölten 1992,13/11/92,14/11/92,W-Pö,World Cup
+117,UIAA Worldcup - Laval 1992,19/11/92,20/11/92,W-La,World Cup
+118,UIAA Worldcup - Birmingham 1992,10/12/92,11/12/92,W-Bi,World Cup
+119,UIAA Youth Worldchampionship - Basel 1992,26/2/92,27/2/92,J-WM,World Championship
+120,UIAA European Championship - Frankfurt 1992,17/9/92,18/9/92,EM-F,Continental
+121,Masters Chambery 1992,29/1/92,30/1/92,M-Ch,Other
+122,Masters Serre Chevalier 1992,20/7/92,21/7/92,M-Se,Other
+123,UIAA Masters - Rock Masters Arco 1992,31/8/92,1/9/92,M-Ar,Other
+124,UIAA Worldcup - Frankfurt 1993,1/4/93,2/4/93,W-Fr,World Cup
+125,UIAA World Championship - Innsbruck 1993,29/4/93,30/4/93,WM-I,World Championship
+126,UIAA Worldcup - Zürich 1993,14/5/93,15/5/93,W-Zü,World Cup
+127,UIAA Worldcup - Toulon 1993,27/5/93,28/5/93,W-To,World Cup
+128,UIAA Worldcup - Black See 1993,26/8/93,27/8/93,W-Bu,World Cup
+129,UIAA Worldcup - Nürnberg 1993,4/11/93,5/11/93,W-Nü,World Cup
+130,UIAA Worldcup - Laval 1993,9/12/93,10/12/93,W-La,World Cup
+131,Jeux de Pyrinae - Ainsa 1993,20/5/93,21/5/93,M-Py,Other
+132,Masters Serre-Chevalier 1993,21/7/93,22/7/93,M-Se,Other
+133,UIAA Masters - Rock Masters Arco 1993,10/9/93,11/9/93,M-Ar,Other
+134,UIAA Worldcup - Villach 1994,15/4/94,16/4/94,W-Vi,World Cup
+135,UIAA Worldcup - Moscow 1994,28/4/94,29/4/94,W-Mo,World Cup
+137,UIAA Worldcup - Aix-les-Bains 1994,17/11/94,18/11/94,W-Ai,World Cup
+138,UIAA Worldcup - Birmingham 1994,25/11/94,26/11/94,W-Bi,World Cup
+139,UIAA Youth Worldchampionship - Leipzig 1994,21/10/94,22/10/94,94-JWM,World Championship
+140,UIAA Masters - Serre Chevalier 1994,20/7/94,21/7/94,M-Se,Other
+141,UIAA Masters - L'Argentiere 1994,27/7/94,28/7/94,M-LA,Other
+142,UIAA Masters - Rock Masters Arco 1994,9/9/94,10/9/94,M-Ar,Other
+143,UIAA Worldcup - Frankfurt 1995,6/4/95,7/4/95,W-Fr,World Cup
+144,UIAA Worldcup - Moscow 1995,21/10/95,22/10/95,W-Mo,World Cup
+145,UIAA Worldchampionchip - Genève 1995,5/5/95,6/5/95,WM-G,World Championship
+146,UIAA Worldcup - Birmingham 1995,24/11/95,25/11/95,W-Bi,World Cup
+147,UIAA Worldcup - Aix-les-Bains 1995,7/12/95,8/12/95,W-Ai,World Cup
+148,UIAA Youth Worldchampionship - Laval 1995,5/10/95,6/10/95,95JWM,World Championship
+149,UIAA Masters - Serre Chevalier 1995,28/7/95,29/7/95,M-Se,Other
+150,UIAA Bouldering Masters - L'Argentier 1995,6/8/95,7/8/95,M-LA,Other
+151,UIAA Masters - Rock Masters Arco 1995,9/9/95,10/9/95,M-Ar,Other
+152,UIAA Worldcup - Ekaterinburg 1996,18/9/96,19/9/96,W-Ekaterinburg,World Cup
+153,UIAA Worldcup - Kranj 1996,23/11/96,24/11/96,W-Kranj,World Cup
+154,UIAA Worldcup - Graz 1996,14/12/96,15/12/96,W-Graz,World Cup
+155,European Championship - Paris 1996,27/1/96,28/1/96,EmPa,Continental
+156,European Youth Cup - Dortmund (GER) 1996,7/6/96,8/6/96,E-Dortmund,Continental
+157,European Youth Cup - Ravenna (ITA) 1996,28/6/96,29/6/96,E-Ravenna,Continental
+158,European Youth Cup - Skofja Loka (SLO) 1996,13/9/96,14/9/96,E-Skofja Loka,Continental
+159,European Youth Cup - Bern (SUI) 1996,27/9/96,28/9/96,E-Bern,Continental
+160,European Youth Cup - Prag (CZE) 1996,25/10/96,26/10/96,E-Prag,Continental
+161,"UIAA Masters - ESPN X-Games - Newport, USA 1996",24/6/96,25/6/96,ESPN,Other
+162,UIAA Masters - Serre Chevalier 1996,24/7/96,25/7/96,M-Se,Other
+163,UIAA Masters - Rock Masters Arco 1996,6/9/96,7/9/96,M-Ar,Other
+164,UIAA World Championchip - Paris 1997,31/1/97,1/2/97,WM,World Championship
+165,UIAA Worldcup - Courmayeur 1997,4/9/97,5/9/97,W-Co,World Cup
+166,UIAA Worldcup - Prag 1997,23/10/97,24/10/97,W-Pr,World Cup
+167,UIAA Worldcup - Kranj 1997,8/11/97,9/11/97,W-Kr,World Cup
+168,UIAA Worldcup - Imst 1997,21/11/97,22/11/97,W-Im,World Cup
+169,UIAA Worldcup - Birmingham 1997,28/11/97,29/11/97,W-Bi,World Cup
+170,UIAA Youth Worldchampionship - Imst (AUT) 1997,13/11/97,14/11/97,JWM,World Championship
+171,European Youth Cup - Bolzano (ITA) 1997,3/5/97,4/5/97,E-Bolzano,Continental
+172,European Youth Cup - Dortmund (GER) 1997,31/5/97,1/6/97,E-Dortmund,Continental
+173,European Youth Cup - Chocen (CZE) 1997,28/6/97,29/6/97,E-Chocen,Continental
+174,European Youth Cup - Bern (SUI) 1997,23/8/97,24/8/97,E-Bern,Continental
+175,European Youth Cup - Parma (ITA) 1997,20/9/97,21/9/97,E-Parma,Continental
+176,"UIAA Masters - San Diego X-Games, USA 1997",22/6/97,23/6/97,X-Gam,Other
+177,UIAA Masters - Serre Chevalier 1997,26/7/97,27/7/97,M-Se,Other
+178,UIAA Masters - Rock Masters Arco 1997,12/9/97,13/9/97,M-Ar,Other
+179,UIAA Worldcup - Beauregard (ITA) 1998,31/7/98,1/8/98,W-Beauregard,World Cup
+180,UIAA Worldcup - Courmayeur (ITA) 1998,3/9/98,4/9/98,W-Courmayeur,World Cup
+181,UIAA Worldcup - Milan (ITA) 1998,8/10/98,9/10/98,W-Milan,World Cup
+182,UIAA Worldcup - Kranj (SLO) 1998,13/11/98,14/11/98,W-Kranj,World Cup
+183,UIAA Youth Worldchampionship - Moscow (RUS) 1998,15/7/98,16/7/98,J_WM,World Championship
+184,UIAA European Championship - Nürnberg (GER) 1998,2/4/98,3/4/98,EC-Nürnberg,Continental
+185,European Youth Cup - Dortmund (GER) 1998,11/6/98,12/6/98,E-Dortmund,Continental
+186,European Youth Cup - Triest (ITA) 1998,3/7/98,4/7/98,E-Triest,Continental
+187,European Youth Cup - Imst (AUT) 1998,10/7/98,11/7/98,E-Imst,Continental
+188,European Youth Cup - Aix en Provence (FRA) 1998,30/10/98,31/10/98,E-Aix en Provence,Continental
+189,Top Rock Challenge - Val d'Isere (FRA) 1998,11/7/98,12/7/98,T-V.d'Isere,Other
+190,Top Rock Challenge - Chamonix (FRA) 1998,16/7/98,17/7/98,T-Chamonix,Other
+191,UIAA Masters - Serre Chevalier (FRA) 1998,22/7/98,23/7/98,M-Serre Chevalier,Other
+192,Top Rock Challenge - Valloire (FRA) 1998,6/8/98,7/8/98,T-Valloire,Other
+193,Top Rock Challenge - Cortina d'Ampezzo (ITA) 1998,13/8/98,14/8/98,T-Cortina,Other
+194,Top Rock Challenge - Crans Montana (SUI) 1998,21/8/98,22/8/98,T-Cr.Montana,Other
+195,Top Rock Challenge - Grenoble (FRA) 1998,27/8/98,28/8/98,T-Grenoble,Other
+196,UIAA Masters - Rock Masters Arco (ITA) 1998,11/9/98,12/9/98,M-Arco,Other
+197,UIAA Worldcup - Wiener Neustadt (AUT) 1999,15/4/99,16/4/99,Wien,World Cup
+198,UIAA Worldcup - Besancon (FRA) 1999,9/6/99,10/6/99,W-Besancon,World Cup
+199,UIAA Worldcup - Benasque (ESP) 1999,2/7/99,3/7/99,WC Benasque,World Cup
+200,UIAA Worldcup - Val d'Isere (FRA) 1999,10/7/99,11/7/99,WC Val d'Isere,World Cup
+201,UIAA Worldcup - Chamonix (FRA) 1999,16/7/99,17/7/99,WC Chamonix,World Cup
+202,UIAA Worldcup - Beauregard (ITA) 1999,23/7/99,24/7/99,WC Beauregard,World Cup
+203,UIAA Worldcup - Bardonecchia (ITA) 1999,30/7/99,31/7/99,WC Bardonecchia,World Cup
+204,UIAA Worldcup - Cortina (ITA) 1999,12/8/99,13/8/99,WC Cortina,World Cup
+205,UIAA Worldcup - Grenoble (FRA) 1999,27/8/99,28/8/99,WC Grenoble,World Cup
+206,UIAA Worldcup - Kranj (SLO) 1999,11/11/99,12/11/99,W-Kranj,World Cup
+207,UIAA World Championship - Birmingham (GBR) 1999,2/12/99,3/12/99,WM Birmingham,World Championship
+208,UIAA Youth Worldchampionship - Courmayeur (ITA) 1999,2/9/99,3/9/99,JWM,World Championship
+209,European Youth Cup - Imst (AUT) 1999,9/7/99,10/7/99,Imst,Continental
+210,European Youth Cup - Bern (SUI) 1999,13/8/99,14/8/99,Bern,Continental
+211,European Youth Cup - Albertville (FRA) 1999,15/10/99,16/10/99,Albertville,Continental
+212,EuropeanYouth Cup - Amsterdam (NED) 1999,26/11/99,27/11/99,Amsterdam,Continental
+213,UIAA Masters - Serre-Chevalier (FRA) 1999,21/7/99,22/7/99,Ma Serre-Chev.,Other
+214,Int. Event - Arco Rock Master (ITA) 1999,9/9/99,10/9/99,IE Arco,Other
+215,Int. Event - Sheffield (GBR) 1999,6/12/99,7/12/99,IE Sheffield,Other
+216,UIAA Worldcup - Konitsa (GRE) 2000,26/5/00,27/5/00,Konitsa,World Cup
+217,UIAA Worldcup - Millau (FRA) 2000,31/5/00,1/6/00,Milau,World Cup
+218,UIAA Worldcup - Chamonix (FRA) 2000,11/7/00,12/7/00,Chamonix,World Cup
+219,UIAA Worldcup - Beauregard (ITA) 2000,21/7/00,22/7/00,Beauregard,World Cup
+220,UIAA Worldcup - München (GER) 2000,3/8/00,4/8/00,München,World Cup
+221,UIAA Worldcup - Grenoble (FRA) 2000,31/8/00,1/9/00,Grenoble,World Cup
+222,UIAA Worldcup - Rovereto (ITA) 2000,15/9/00,16/9/00,Rovereto,World Cup
+223,UIAA Worldcup - Lecco (ITA) 2000,22/9/00,23/9/00,Lecco,World Cup
+224,UIAA Worldcup - Courmayeur (ITA) 2000,28/9/00,29/9/00,Courmayeur,World Cup
+225,UIAA Worldcup - Nantes (FRA) 2000,1/11/00,2/11/00,Nantes,World Cup
+226,UIAA Worldcup - Kranj (SLO) 2000,16/11/00,17/11/00,Kranj,World Cup
+227,UIAA World Youth Championship - Amsterdam (NED) 2000,31/8/00,1/9/00,Amsterdam,World Championship
+228,UIAA Asian Championship - Kuala Lumpur (MAS) 2000,23/11/00,24/11/00,Kuala Lumpur,Continental
+230,UIAA European Championship - München (GER) 2000,6/10/00,7/10/00,EM München,Continental
+231,European Youth Cup - Imst (AUT) 2000,2/6/00,3/6/00,Imst,Continental
+232,European Youth Cup - L'Aprica (ITA) 2000,27/10/00,28/10/00,L'Aprica,Continental
+233,European Youth Cup - Kranj (SLO) 2000,1/12/00,2/12/00,Kranj,Continental
+235,Masters - Serre Chevalier (FRA) 2000,16/7/00,17/7/00,Serre Chevalier,Other
+236,Int. Event - Serre Chevalier (FRA) 2000,19/7/00,20/7/00,Serre Chevalier,Other
+237,Int. Event - L'Argentiere (FRA) 2000,24/7/00,25/7/00,L'Argentiere,Other
+238,Int. Event - Rock Master Arco (ITA) 2000,8/9/00,9/9/00,Arco,Other
+239,1. Int. SALEWA Masters - Scheidegg 2000,13/10/00,14/10/00,Scheidegg,Other
+240,UIAA Worldcup - GAP (FRA) 2001,29/6/01,30/6/01,Gap,World Cup
+241,UIAA Worldcup - Chamonix (FRA) 2001,11/7/01,15/7/01,Chamonix,World Cup
+242,UIAA Worldcup - Munich (GER ) 2001,21/7/01,22/7/01,Munich,World Cup
+243,UIAA Worldcup - Rovereto (ITA) 2001,31/8/01,1/9/01,Rovereto,World Cup
+244,UIAA World Championship - Winterthur (SUI) 2001,5/9/01,8/9/01,Winterthur,World Championship
+245,UIAA Worldcup - Lecco (ITA) 2001,21/9/01,22/9/01,Lecco,World Cup
+246,UIAA Worldcup - Aprica (ITA) 2001,18/10/01,19/10/01,Aprica,World Cup
+247,UIAA Worldcup - Kuala Lumpur (MAS) 2001,2/11/01,4/11/01,Kuala Lumpur,World Cup
+248,UIAA Worldcup - Kranj (SLO) 2001,16/11/01,18/11/01,Kranj,World Cup
+249,UIAA Worldcup - Birmingham (GBR) 2001,6/12/01,7/12/01,Birmingham,World Cup
+250,UIAA Youth World Championship - Imst(AUT) 2001,21/6/01,24/6/01,YWC Imst 2001,World Championship
+251,UIAA Youth World Championship SPEED - Imst (AUT) 2001,21/6/01,24/6/01,YWC Imst 2001 SPEED,World Championship
+252,1st UIAA ASIAN CUP - Kunming (CHN),13/9/01,14/9/01,Kunming,Continental
+253,UIAA Asian Championship - Jakarta (INA) 2001,26/10/01,27/10/01,Jakarta,Continental
+254,Asian Bouldering Championship - Taipei (TPE) 2001,23/11/01,24/11/01,Taipei,Continental
+256,European Youth Cup Speed - Apatity (RUS) 2001,28/3/01,29/3/01,Apatity (Speed),Continental
+257,European Youth Cup - Apatity (RUS) 2001,30/3/01,1/4/01,Apatity,Continental
+258,European Youth Cup - Trieste (ITA) 2001,6/4/01,7/4/01,Trieste,Continental
+259,European Youth Cup - Imst (AUT) 2001,15/6/01,16/6/01,Imst,Continental
+260,European Youth Cup - Arco (ITA) 2001,29/6/01,30/6/01,Arco,Continental
+261,European Youth Cup - Aprica (ITA) 2001,12/10/01,13/10/01,Aprica,Continental
+262,European Youth Cup - Birmingham (GBR) 2001,7/12/01,9/12/01,Birmingham,Continental
+263,North American Youth Championship - Berkeley (USA) 2001,2/2/01,4/2/01,Berkeley,Continental
+264,Reg. Event - Nordic Championship - Malmö (SWE) 2001,16/3/01,17/3/01,Malmö,Other
+265,Int. Event - Fontainebleau (FRA) 2001,7/6/01,8/6/01,Fontainebleau,Other
+267,Int. Event - Lake Placid (USA) 2001,12/7/01,15/7/01,Lake Placid,Other
+268,Int. Event - Hood River (USA) 2001,19/7/01,21/7/01,Hood River,Other
+269,Int. Event - Serre Chevalier (FRA) 2001,19/7/01,20/7/01,Serre-Chevalier,Other
+270,Int. Event - L'Argentiere (FRA) 2001,26/7/01,27/7/01,L'Argentiere,Other
+271,Int. Event - Rock Master Arco (ITA) 2001,14/9/01,16/9/01,Arco,Other
+272,Int. Event - Blocmaster Grenoble (FRA) 2001,5/10/01,7/10/01,Grenoble,Other
+273,2. Int. SALEWA Masters - Scheidegg (GER) 2001,13/10/01,13/10/01,Scheidegg,Other
+274,Int. Event - Master WARSAW (POL) 2001,9/11/01,10/11/01,WarSaw,Other
+275,UIAA Worldcup - Bolzano (ITA) 2002,26/4/02,28/4/02,Bolzano,World Cup
+276,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,17/5/02,19/5/02,Yekaterinburg,World Cup
+277,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,22/5/02,22/5/02,Yekaterinburg 2,World Cup
+278,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,25/5/02,26/5/02,Yekaterinburg 3,World Cup
+279,UIAA Worldcup - Imst (AUT) 2002,6/6/02,7/6/02,Imst,World Cup
+280,UIAA Worldcup - Fiera di Primiero (ITA) 2002,13/6/02,14/6/02,Fiera di Primiero,World Cup
+281,UIAA Worldcup - Lecco (ITA) 2002 - speed,24/6/02,24/6/02,Lecco,World Cup
+282,UIAA Worldcup - Lecco (ITA) 2002 - boulder,25/6/02,26/6/02,Lecco,World Cup
+283,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,28/6/02,29/6/02,Lecco,World Cup
+284,UIAA Worldcup - Singapore (SIN) 2002,23/8/02,25/8/02,Singapore,World Cup
+285,UIAA Worldcup - Rovereto (ITA) 2002,13/9/02,14/9/02,Rovereto,World Cup
+286,UIAA Worldcup - Aprica (ITA) 2002,17/10/02,18/10/02,Aprica,World Cup
+287,UIAA Worldcup - Kranj (SLO) 2002,15/11/02,17/11/02,Kranj,World Cup
+288,UIAA Youth World Championship Speed - Canteleu (FRA) 2002,26/9/02,27/9/02,Canteleu,World Championship
+289,UIAA World Youth Championship - Canteleu (FRA) 2002,27/9/02,28/9/02,Canteleu,World Championship
+290,UIAA Asian Championship - Toyama (JPN) 2002,11/10/02,12/10/02,Toyama,Continental
+291,Asian Youth Championship - Malaysia 2002,20/12/02,21/12/02,Malaysia,Continental
+292,UIAA European Championship - Chamonix (FRA) 2002,11/7/02,14/7/02,Chamonix,Continental
+293,European Youth Cup - Imst (AUT) 2002,14/6/02,15/6/02,Imst,Continental
+294,European Youth Cup - Arco (ITA) 2002,21/6/02,22/6/02,Arco,Continental
+295,European Youth Cup - Veliko Tarnovo (BUL) 2002,8/11/02,9/11/02,Veliko Tarnovo,Continental
+296,European Youth Cup - Kranj (SLO) 2002,22/11/02,23/11/02,Kranj,Continental
+300,Int. Event - Klimax Goldfinger - Puurs (BEL) 2002,20/4/02,20/4/02,Klimax,Other
+302,Int. Event - Serre Chevalier (FRA) 2002,18/7/02,19/7/02,Serre Chevalier,Other
+303,Int. Event - L'Argentière (FRA) 2002,25/7/02,26/7/02,L'Argentière,Other
+304,Int. Event - Speed Rock - Daone (ITA),28/7/02,28/7/02,Daone,Other
+305,Int. Event - Arco Rockmaster (ITA) 2002,6/9/02,7/9/02,Arco,Other
+306,Int. Event - Schengzheng (CHN) 2002,6/12/02,7/12/02,Schengzheng,Other
+307,UIAA Worldcup - Imst (AUT) 2003,22/5/03,23/5/03,Imst,World Cup
+308,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),30/5/03,1/6/03,Yekaterinburg B+S,World Cup
+309,UIAA Worldcup - Yekaterinburg (RUS) 2003 (S),4/6/03,4/6/03,Yekaterinburg S,World Cup
+310,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),6/6/03,8/6/03,Yekaterinburg D+S,World Cup
+311,UIAA Worldcup - Fiera di Primiero (ITA) 2003,13/6/03,15/6/03,Fiera di Primiero,World Cup
+312,UIAA Worldcup - Lecco (ITA) 2003 (speed),23/6/03,23/6/03,Lecco Speed,World Cup
+313,UIAA Worldcup - Lecco (ITA) 2003 (boulder),24/6/03,25/6/03,Lecco Bouldern,World Cup
+314,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),27/6/03,28/6/03,Lecco,World Cup
+315,UIAA Worldchampionship - Chamonix (FRA) 2003,9/7/03,13/7/03,Chamonix,World Championship
+316,UIAA Worldcup - L'Argentière (FRA) 2003,24/7/03,25/7/03,Argentiere,World Cup
+317,UIAA Worldcup - Val Daone (ITA) 2003,25/7/03,26/7/03,Val Daone,World Cup
+318,UIAA Worldcup - Aviles (ESP) 2003,21/8/03,22/8/03,Aviles,World Cup
+319,UIAA Worldcup - Rovereto (ITA) 2003,11/9/03,12/9/03,Rovereto,World Cup
+320,UIAA Worldcup - Aprica (ITA) 2003,2/10/03,3/10/03,Aprica,World Cup
+321,UIAA Worldcup - Prague (CZE) 2003,10/10/03,11/10/03,Prague,World Cup
+322,UIAA Worldcup - Valence (FRA) 2003,30/10/03,31/10/03,Valence,World Cup
+323,UIAA Worldcup - Kranj (SLO) 2003,14/11/03,16/11/03,Kranj,World Cup
+324,UIAA Worldcup - Shenzen (CHN) 2003,21/11/03,23/11/03,Shenzen,World Cup
+325,UIAA Worldcup - Edinburgh (GBR) 2003,4/12/03,7/12/03,Edinburgh,World Cup
+326,Youth Worldchampionship - Veliko Tarnovo (BUL) 2003,19/9/03,21/9/03,Veliko Tarnovo,World Championship
+327,UIAA Asian Championship - Beijing (CHN) 2003,22/8/03,23/8/03,Beijing,Continental
+328,European Youth Cup - Imst (AUT) 2003,16/5/03,17/5/03,Imst,Continental
+329,European Youth Cup - Arco (ITA) 2003,30/5/03,31/5/03,Arco,Continental
+330,European Youth Cup - Niederwangen (SUI) 2003,12/9/03,13/9/03,Bern,Continental
+331,European Youth Cup - Kranj (SLO) 2003,22/11/03,23/11/03,Kranj,Continental
+332,Panamerican Championships - Mexico City (MEX) 2003,23/5/03,25/5/03,Mexico,Continental
+333,UIAA North American Youth Championship - not confirmed,31/12/02,1/1/03,North American Youth,Continental
+334,Nordic Championships - Oslo (NOR) 2003,2/5/03,3/5/03,Oslo,Other
+335,Int. Event - Birmingham (GBR) 2003,14/3/03,16/3/03,Birmingham,Other
+336,Int. Event - Open Youth Marseille (FRA) 2003,25/4/03,26/4/03,Marseille,Other
+340,Int. Event - Speed Rock Daone (ITA) 2003 - not confirmed,30/6/03,1/7/03,Daone,Other
+341,"Int. Event - Master/Event of Daroca, Zaragosa (ESP) 2003",4/7/03,5/7/03,Zaragosa,Other
+342,Int. Event - Serre Chevalier (FRA) 2003,17/7/03,18/7/03,Serre Chevalier,Other
+343,Int. Event - Boulder Masters Grenoble (FRA) 2003,28/8/03,29/8/03,Grenoble,Other
+344,Int. Event - La Colmiane (FRA) 2003,18/9/03,19/9/03,La Colmiane,Other
+345,Int. Event - Arco Rockmaster (ITA) 2003,26/9/03,27/9/03,Arco,Other
+347,UIAA Worldcup - Birmingham (GBR) 2004,2/4/04,4/4/04,Birmingham,World Cup
+348,UIAA Worldcup - Erlangen (GER) 2004,15/4/04,16/4/04,Erlangen,World Cup
+349,UIAA Worldcup - Puurs (BEL) 2004,23/4/04,25/4/04,Puurs,World Cup
+350,UIAA Worldcup - Imst (AUT) 2004,28/5/04,29/5/04,Imst,World Cup
+351,UIAA Worldcup - Fiera di Primiero (ITA) 2004,18/6/04,20/6/04,Fiera di Primiero,World Cup
+352,UIAA Worldcup - Chamonix (FRA) 2004,11/7/04,12/7/04,Chamonix,World Cup
+353,UIAA Worldcup - Val Daone (ITA) 2004,16/7/04,17/7/04,Val Daone,World Cup
+354,UIAA Worldcup - L'Argentière La Bessée (FRA) 2004,28/7/04,29/7/04,L'Argentière,World Cup
+355,UIAA Worldcup - Bardonecchia (ITA) 2004,19/8/04,21/8/04,Bardonecchia,World Cup
+356,UIAA Worldcup - Marbella (ESP) 2004,17/9/04,18/9/04,Marbella,World Cup
+357,UIAA Worldcup - Huzou (CHN) 2004,24/9/04,26/9/04,Huzou,World Cup
+358,UIAA Worldcup - Shanghai (CHN) 2004,1/10/04,2/10/04,Shanghai,World Cup
+359,UIAA Worldcup - Aprica (ITA) 2004,21/10/04,22/10/04,Aprica,World Cup
+360,UIAA Worldcup - Valence (FRA) 2004,28/10/04,29/10/04,Valence,World Cup
+361,UIAA Worldcup - Brno (CZE) 2004,11/11/04,12/11/04,Brno,World Cup
+362,UIAA Worldcup - Kranj (SLO) 2004,19/11/04,20/11/04,Kranj,World Cup
+363,UIAA World Youth Championship - Edinburgh (GBR) 2004,10/9/04,12/9/04,World Youth Champ.,World Championship
+364,UIAA Asian Championship - Jeolla Nam Do (KOR) 2004,29/10/04,30/10/04,Asian Champ.,Continental
+365,UIAA European Championship - Lecco (ITA) 2004,21/6/04,27/6/04,European Champ.,Continental
+366,European Youth Cup - Geneva (SUI) 2004,2/4/04,3/4/04,EYC Geneva,Continental
+367,European Youth Cup - Imst (AUT) 2004,14/5/04,15/5/04,EYC Imst,Continental
+368,European Youth Cup + Festival - Veliko Tarnovo (BUL) 2004,19/8/04,22/8/04,EYC Veliko Tarnovo,Continental
+369,European Youth Cup - Kranj (SLO) 2004,26/11/04,27/11/04,EYC Kranj,Continental
+370,UIAA Central-South American Championship - S. Antonio de los Altos (VEN) 2004,25/8/04,29/8/04,Cent.South Am.Champ.,Continental
+371,North American Championship - Mexico City (MEX) 2004 (incl. SpiderKids),24/11/04,28/11/04,North American Ch.,Continental
+372,UIAA Central-South American Youth - S. Antonio de los Altos (VEN) 2004,19/8/04,25/8/04,Latin Am. Youth,Continental
+373,North American Championship - Mexico City (MEX) 2004 (Youth Bouldering),24/11/04,28/11/04,North American Ch. B,Continental
+374,UIAA Nordic Championship Bouldering (NOR) 2004,27/2/04,28/2/04,Nordic Championship,Other
+376,Int. Event - Open Youth Marseille (FRA) 2004,14/4/04,15/4/04,Marseille,Other
+377,Int. Event Melloblocco - Val di Mello (ITA) 2004,7/5/04,8/5/04,Melloblocco,Other
+382,Int. Event - OutDoor Climbing Events 2004 - Friedrichshafen (GER) 2004,22/7/04,23/7/04,Friedrichshafen,Other
+384,Int. Event - Grenoble (FRA) 2004,26/8/04,27/8/04,Grenoble,Other
+385,Int. Event - Rockmaster Arco (ITA) 2004,3/9/04,4/9/04,Arco,Other
+387,Int. Event - Asia Cup Uttarkashi (IND) 2004,19/11/04,21/11/04,Asia Cup India,Other
+388,UIAA Worldcup (B) - Birmingham (GBR) 2005,18/3/05,20/3/05,Birmingham (B),World Cup
+389,UIAA Worldcup (B+S) - Moscow (RUS) 2005,8/4/05,10/4/05,Moscow (B+S),World Cup
+390,UIAA Worldcup (S) - Moscow (RUS) 2005,10/4/05,10/4/05,Moscow (S),World Cup
+391,UIAA Worldcup (L+S) - Veliko Tarnovo (BUL) 2005,23/4/05,25/4/05,Veliko Tarnovo (L+S),World Cup
+392,UIAA Worldcup (L) - Puurs (BEL) 2005,28/4/05,29/4/05,Puurs (L),World Cup
+393,UIAA Worldcup (L) - Imst (AUT) 2005,26/5/05,27/5/05,Imst (L),World Cup
+394,UIAA Worldcup (B) - Fiera di Primiero (ITA) 2005,16/6/05,17/6/05,Fiera (B),World Cup
+395,UIAA Worldcup (L) - Zürich (SUI) 2005,24/6/05,25/6/05,Zürich (L),World Cup
+396,UIAA World Championship - Munich (GER) 2005,1/7/05,5/7/05,Munich,World Championship
+397,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,12/7/05,13/7/05,Chamonix (L+S),World Cup
+398,UIAA Worldcup (S) - Daone (ITA) 2005,29/7/05,30/7/05,Daone (S),World Cup
+399,UIAA Worldcup (L) - Marbella (ESP) 2005,16/9/05,17/9/05,Marbella (L),World Cup
+400,UIAA Worldcup (B) - Firminy (FRA) 2005,29/9/05,30/9/05,Firminy (B),World Cup
+401,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,21/10/05,22/10/05,Shanghai (L+S),World Cup
+402,UIAA Worldcup (L) - Valence (FRA) 2005,27/10/05,29/10/05,Valence (L),World Cup
+403,UIAA Worldcup (L) - Kranj (SLO) 2005,18/11/05,19/11/05,Kranj (L),World Cup
+404,UIAA World Youth Championship - Bejing (CHN) 2005,24/8/05,25/8/05,Bejing,World Championship
+405,UIAA Asian Championship - Iran 2005,22/9/05,23/9/05,Iran,Continental
+406,Asian Youth Championships,3/12/05,4/12/05,AYC,Continental
+407,European Youth Cup - Brno (CZE) 2005,15/4/05,16/4/05,EYC Brno,Continental
+408,European Youth Cup - Imst (AUT) 2005,20/5/05,21/5/05,Imst,Continental
+409,European Youth Cup - Geneva (SUI) 2005,7/10/05,8/10/05,Geneva,Continental
+410,European Youth Cup - Penne (ITA) 2005,4/11/05,5/11/05,Penne,Continental
+411,European Youth Cup - Kranj (SLO) 2005,25/11/05,26/11/05,Kranj,Continental
+412,International World Games (L+S) - Duisburg (GER) 2005,22/7/05,23/7/05,Duisburg,Other
+413,Int. Event - Open Youth Marseille (FRA) 2005,22/4/05,23/4/05,Marseille,Other
+417,Int. Youth Event - Citta di Ravenna (ITA) 2005,24/6/05,26/6/05,Citta di Ravenna,Other
+419,Int. Youth Event - Petzen Trophy Kärnten 2005,8/7/05,10/7/05,Kärnten,Other
+421,Int. Event (L) - Serre Chevalier (FRA) 2005,29/7/05,30/7/05,Serre Chevalier,Other
+422,Int. Event (B) - L'Argentiere (FRA) 2005,5/8/05,5/8/05,L'Argentiere,Other
+423,Int. Event (L+B+S) ROCKMASTER - Arco (ITA) 2005,2/9/05,3/9/05,Arco,Other
+424,Int. Event (L) - Lisbon (POR) 2005,30/9/05,1/10/05,Lisbon,Other
+425,UIAA Climbing Worldcup (B) - Birmingham (GBR) 2006,17/3/06,19/3/06,Birmingham (B),World Cup
+426,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,21/4/06,22/4/06,Veliko Tarnovo (B+S),World Cup
+427,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,28/4/06,29/4/06,Puurs (L),World Cup
+428,UIAA Climbing Worldcup (B) - Rovereto (ITA) 2006,12/5/06,14/5/06,Rovereto (B),World Cup
+429,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,19/5/06,20/5/06,Dresden (L+S),World Cup
+430,UIAA Climbing Worldcup (B) - Grindelwald (SUI) 2006,9/6/06,10/6/06,Grindelwald (B),World Cup
+431,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,16/6/06,17/6/06,Fiera di Primiero(B),World Cup
+432,UIAA Climbing Worldcup (B) - Hall (AUT) 2006,22/6/06,23/6/06,Hall (B),World Cup
+433,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,12/7/06,13/7/06,Chamonix (L+S),World Cup
+434,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,29/7/06,30/7/06,Qinghai (L),World Cup
+435,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,29/7/06,30/7/06,Daone (S),World Cup
+436,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,5/8/06,6/8/06,Singapore (L+S),World Cup
+437,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,12/8/06,13/8/06,Kuala Lumpur (L+S),World Cup
+438,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,16/9/06,17/9/06,Marbella (L),World Cup
+439,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,2/10/06,3/10/06,Shanghai (L+S),World Cup
+440,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,2/11/06,4/11/06,Moscow (B+S),World Cup
+441,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,11/11/06,12/11/06,Penne (L),World Cup
+442,UIAA Worldcup (L) - Kranj (SLO) 2006,18/11/06,19/11/06,Kranj (L),World Cup
+443,UIAA World Youth Championship - Imst (AUT) 2006,24/8/06,27/8/06,Imst,World Championship
+444, UIAA Asian Championships - Kaoshiung (TPE) 2006,26/10/06,29/10/06,Kaoshiung,Continental
+445,UIAA European Championship - Ekatarinburg (RUS) 2006,29/6/06,3/7/06,Ekatarinburg,Continental
+446,European Youth Cup - Imst (AUT) 2006 after disqualification,27/5/06,28/5/06,EYC Imst,Continental
+447,European Youth Cup - Gdansk (POL) 2006,22/7/06,23/7/06,EYC Gdansk,Continental
+448,European Youth Cup - Velika Tarnovo (BUL) 2006,7/10/06,8/10/06,EYC Velika Tarnovo,Continental
+449,European Youth Cup - Annecy (FRA) 2006,28/10/06,29/10/06,EYC Annecy,Continental
+450,European Youth Cup - Kranj (SLO) 2006,25/11/06,26/11/06,EXC Kranj,Continental
+451,Central South America Championship - San Juan de los Morros (VEN),19/5/06,21/5/06,Cent.South Am.Champ.,Continental
+452, North American Championships (L+S) - Denver Colorado (USA) 2006,24/11/06,25/11/06,American Champ.,Continental
+453,Int. Event - Open Youth Marseille (FRA) 2006,22/4/06,23/4/06,Marseille,Other
+454,Promotional Event - Melloblocco (ITA) 2006,6/5/06,7/5/06,Melloblocco,Other
+457,Int. Youth Event - Citta di Ravenna (ITA) 2006,23/6/06,25/6/06,Citta di Ravenna,Other
+459,Int. Youth Event - Petzen Trophy Kärnten (AUT) 2006,7/7/06,9/7/06,Kärnten,Other
+460,Int. Event (L) - Serre Chevalier (FRA) 2006,21/7/06,22/7/06,Serre Chevalier,Other
+461,Promotional Event (L+S) - Friedrichshafen 2006,24/7/06,26/7/06,Friedrichshafen,Other
+462,International Event (B) - L'Argentiere la Bessee (FRA) 2006,28/7/06,28/7/06,L'Argentiere,Other
+464,Int. Event (L+B+S) ROCKMASTER - Arco (ITA) 2006,2/9/06,3/9/06,Arco,Other
+465,International Event (B) - La Colmiane (FRA) 2006,16/9/06,17/9/06,La Colmiane,Other
+466,International Event (L) - Dima-Bilbao (ESP) 2006,11/10/06,14/10/06,Dima-Bilbao,Other
+468,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,30/3/07,31/3/07,Erlangen,World Cup
+469,IFSC Climbing Worldcup (S) - Tarnow (POL) 2007,13/4/07,14/4/07,Tarnow,World Cup
+470,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,20/4/07,22/4/07,Sofia,World Cup
+471,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,27/4/07,28/4/07,Hall,World Cup
+472,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,1/5/07,1/5/07,Trento,World Cup
+473,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,4/5/07,5/5/07,La Reunion,World Cup
+474,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,11/5/07,12/5/07,Imst,World Cup
+475,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,8/6/07,9/6/07,Grindelwald,World Cup
+476,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,15/6/07,16/6/07,Zürich,World Cup
+477,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,22/6/07,23/6/07,Fiera,World Cup
+478,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,11/7/07,13/7/07,Chamonix,World Cup
+479,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,21/7/07,22/7/07,Val Daone,World Cup
+480,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,11/8/07,12/8/07,Qinghai,World Cup
+481,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,17/9/07,23/9/07,Aviles,World Championship
+482,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,28/9/07,29/9/07,Puurs,World Cup
+483,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,13/10/07,14/10/07,Kazo,World Cup
+484,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,2/11/07,3/11/07,Valence,World Cup
+485,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,9/11/07,10/11/07,Brno,World Cup
+486,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,17/11/07,18/11/07,Kranj,World Cup
+487,IFSC Climbing World Youth Championship - Ibarra (ECU) 2007,23/8/07,26/8/07,Ibarra,World Championship
+488, IFSC Asian Championships - Guangzhou (CHN) 2007,8/11/07,11/11/07,Guangzhou,Continental
+489,IFSC European Boulder Championship  - Birmingham (GBR) 2007,16/3/07,18/3/07,Birmingham,Continental
+490,European Youth Series - Imst (AUT) 2007,19/5/07,20/5/07,EYS Imst,Continental
+491,European Youth Series - Veliko Tarnovo (BUL) 2007,30/6/07,1/7/07,EYS Velika,Continental
+492,European Youth Series - Leipzig (GER) 2007,7/7/07,8/7/07,EYS Leipzig,Continental
+493,European Youth Series - Warsaw (POL) 2007,21/7/07,22/7/07,EYS Warsaw,Continental
+494,European Youth Series - Linz (AUT) 2007,27/10/07,28/10/07,EYS Linz,Continental
+495,European Youth Series - Kranj (SLO) 2007,24/11/07,25/11/07,EYS Kranj,Continental
+496,Asian Indoor Games - Macau,29/10/07,3/11/07,Macau,Other
+498,Promotional Event - Melloblocco (ITA) 2007,5/5/07,6/5/07,Melloblocco,Other
+500, International Event (B) Ukrainian Verticals - Kiev (UKR),26/5/07,26/5/07,Kiev,Other
+503,International Event - Swiss Master Outdoor Games - Interlaken (SUI) 2007,30/6/07,1/7/07,Interlaken,Other
+504,Int. Youth Event - Petzen Trophy Kärnten (AUT) 2007,6/7/07,8/7/07,Petzen,Other
+505,Int. Event (L) - Serre Chevalier (FRA) 2007,20/7/07,21/7/07,Serre Chevalier,Other
+506,International Event (B) - L'Argentiere la Bessee (FRA) 2007,28/7/07,28/7/07,L'Argentiere,Other
+507,International Event (B) - La Colmiane (FRA) Masters 2007,25/8/07,26/8/07,La Colmiane,Other
+509,Int. Event (L+B+S) ROCKMASTER - Arco (ITA) 2007,8/9/07,9/9/07,Arco,Other
+511,Promo Event (L+S) Asia Cup - Changsha (CMA),5/11/07,6/11/07,Asiacup2007,Other
+512,IFSC Climbing Worldcup (B) - Hall (AUT) 2008,18/4/08,19/4/08,HALL ,World Cup
+513,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,27/4/08,27/4/08,TRENTO ,World Cup
+514,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008,2/5/08,3/5/08,REUNION ,World Cup
+515,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008,30/5/08,31/5/08,GRINDELWALD,World Cup
+516,IFSC Climbing Worldcup (B) - Vail (USA) 2008,6/6/08,7/6/08,VAIL ,World Cup
+518,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,27/6/08,28/6/08,QINGHAI,World Cup
+519,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,4/7/08,5/7/08,MONTAUBAN,World Cup
+520,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,12/7/08,13/7/08,CHAMONIX,World Cup
+521,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,19/7/08,20/7/08,VAL DAONE ,World Cup
+522,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,12/9/08,13/9/08,08_WC_BE,World Cup
+523,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,19/9/08,20/9/08,08_WC_IM,World Cup
+524,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,26/9/08,27/9/08,08_WC_PU,World Cup
+525,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,31/10/08,2/11/08,08_WC_MS,World Cup
+526,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,15/11/08,16/11/08,08_WC_KR,World Cup
+527,IFSC Youth World Championships Sydney 2008,28/8/08,31/8/08,Sidney,World Championship
+529, IFSC Asian Championships (B+L+S) - Guangzhou (CHN) 2008,21/5/08,25/5/08,08_AC,Continental
+530,Asian Youth Championship (L+S) - Yamaguchi (JPN) 2008 ,31/10/08,1/11/08,,Continental
+531,IFSC European Championship - Paris (FRA) 2008,15/10/08,18/10/08,Paris,Continental
+532,IFSC European Youth Series (L) - Prague (CZE) 2008,17/5/08,18/5/08,08_JS_PR,Continental
+533,IFSC European Youth Series (L+S) - Wuppertal (GER) 2008,21/6/08,22/6/08,08_EY_WU,Continental
+534,IFSC European Youth Series (L) - Imst (AUT) 2008,27/9/08,28/9/08,08EYC_IM,Continental
+535,IFSC European Youth Series (L) - Annecy (FRA) 2008,1/11/08,2/11/08,08_EY_AN,Continental
+536,IFSC European Youth Series (L) - Kranj (SLO) 2008,22/11/08,23/11/08,08_EY_KR,Continental
+537,Centre and South American Continental Championship Sport Climbing - Senior,8/10/08,12/10/08,,Continental
+538,North American Championships -  Montreal (CAN) 2008,4/12/08,7/12/08,08_NC,Continental
+539,Oceanian Championship - New Zealand,3/10/08,5/10/08,,Continental
+540,Regional Event (B) - Kitzbühel (AUT) 2008,4/4/08,5/4/08,08_PE_KI,Other
+545,Int. Event (L+B) DimaRockmaster - Dima (ESP) 2008,23/5/08,24/5/08,08_IE_DI,Other
+548,Int. Youth Event - Petzen Trophy Kärnten (AUT) 2008,4/7/08,6/7/08,08_JS_KA,Other
+549,Int. Event (L) - Serre Chevalier (FRA) 2008,25/7/08,26/7/08,08_IE_SE,Other
+554,Int. Event (L+B+S) ROCKMASTER - Arco (ITA) 2008,6/9/08,7/9/08,08_IE_AR,Other
+555,Intl. Event - TreX Games Busan 2008 Intl. Sport Climbing Competition,28/9/08,2/10/08,,Other
+556,International Event (S + L) - Shanghai (CHN) 2008,28/10/08,29/10/08,08_IE_SH,Other
+557,IFSC Hydromaster CHINA 2008,28/10/08,28/10/08,,Other
+560,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,11/4/09,12/4/09,WC Kazo,World Cup
+561,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,18/4/09,19/4/09,WC Tarnow,World Cup
+562,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,25/4/09,26/4/09,WC Trento,World Cup
+563,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,1/5/09,2/5/09,WC Hall,World Cup
+564,IFSC Climbing Worldcup (B) - Wien (AUT) 2009,29/5/09,30/5/09,WC Wien,World Cup
+565,IFSC Climbing Worldcup (B) - Vail (USA) 2009,5/6/09,6/6/09,WC Vail,World Cup
+566,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,12/6/09,13/6/09,WC Eindhoven,World Cup
+567,IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,30/6/09,5/7/09,Qinghai 15m,World Championship
+568,IFSC Climbing World Championships  - Qinghai (CHN) 2009,30/6/09,5/7/09,Quinghai,World Championship
+569,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",12/7/09,13/7/09,WC Chamonix,World Cup
+570,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,1/8/09,2/8/09,WC Daone,World Cup
+571,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,8/8/09,9/8/09,WC Barcelona,World Cup
+572,IFSC Climbing Worldcup (L) - Imst (AUT) 2009,21/8/09,22/8/09,WC Imst,World Cup
+573,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,25/9/09,26/9/09,WC Puurs,World Cup
+574,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,6/11/09,7/11/09,WC Brno,World Cup
+575,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,14/11/09,15/11/09,WC Kranj,World Cup
+576,IFSC World Youth Championships - Valence (FRA) 2009,27/8/09,30/8/09,,World Championship
+579,Asia Championship - Chuncheon (KOR) - 2009,28/8/09,30/8/09,Asia Championship,Continental
+581,European Youth Series - Imst (AUT) 2009,23/5/09,24/5/09,EYS Imst,Continental
+582,IFSC European Youth Series (L+S) - Munich (GER),12/9/09,13/9/09,EYS Munich,Continental
+583,IFSC European Youth Series - Edinburgh (GBR),19/9/09,20/9/09,EYS Edinburgh,Continental
+584,IFSC European Youth Series (L+S) - Kaliningrad (RUS),16/10/09,18/10/09,EYS Kaliningrad,Continental
+585,IFSC European Youth Series - Kranj (SLO) 2009,21/11/09,22/11/09,EYS Kranj,Continental
+587,Asian X Games (S) - Shanghai (CHN) 2009,30/4/09,5/5/09,,Other
+588,World Games (L+S) - Kaohsiung (TPE) 2009,18/7/09,19/7/09,,Other
+590,Shanghai Rock Master (L + S) - Shanghai (CHN) 2009,2/5/09,3/5/09,09_03,Other
+597,Intl. Youth Event - Petzen Climbing Trophy - Petzen (AUT) 2009,10/7/09,12/7/09,,Other
+602,Promo Event - Bronx Rock Invitational - Cologne (GER) 2009,15/8/09,15/8/09,,Other
+605, Int. Event (L+B+S) ROCKMASTER - Arco (ITA) 2009,5/9/09,6/9/09,,Other
+608,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,30/4/10,1/5/10,WC Trento,World Cup
+609,IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,14/5/10,15/5/10,WC Greifensee,World Cup
+610,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,28/5/10,30/5/10,WC Wien,World Cup
+611,IFSC Climbing Worldcup (B) - Vail (USA) 2010,4/6/10,5/6/10,WC Vail,World Cup
+612,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",17/6/10,21/6/10,WC Moscow,World Cup
+613,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,25/6/10,26/6/10,WC Eindhoven,World Cup
+614,IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,3/7/10,4/7/10,WC Sheffield,World Cup
+615,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",12/7/10,13/7/10,Wc Chamonix,World Cup
+616,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,24/7/10,25/7/10,WC Daone,World Cup
+617,IFSC Climbing Worldcup (B) - Munich (GER) 2010,30/7/10,31/7/10,WC Munich,World Cup
+618,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",20/8/10,21/8/10,WC Xining,World Cup
+619,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",28/8/10,30/8/10,WC Chuncheon,World Cup
+620,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,24/9/10,25/9/10,WC Puurs,World Cup
+621,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",29/10/10,30/10/10,WC Huaiji,World Cup
+622,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,13/11/10,14/11/10,WC Kranj,World Cup
+623,IFSC World Youth Championship - Edinburgh (GBR) - 2010,9/9/10,12/9/10,Youth World Champ.,World Championship
+627,Asian Continental Championship,16/9/10,19/9/10,ACH_Changzi,Continental
+628,European Speed Cup - Friedrichshafen (GER) 2010,15/7/10,15/7/10,ESC Friedrichshafen,Continental
+629,European Championship - Imst/Innsbruck (AUT) 2010,14/9/10,18/9/10,ECH Imst/Innsbruck,Continental
+630,European Speed Cup - Nicosia (CYP) 2010,4/12/10,5/12/10,ESC Nicosia,Continental
+631,European Youth Series - Imst (AUT) 2010,5/6/10,6/6/10,EYS_Imst,Continental
+632,European Youth Series - Friedrichschafen (GER) 2010,15/7/10,15/7/10,EYS Freidrichshafen,Continental
+633,European Youth Series - Wien (AUT) 2010,14/8/10,15/8/10,EYS Wien,Continental
+634,European Youth Series - Veliko Tarnovo (BUL) 2010,2/10/10,3/10/10,EYS Veliko Tarnovo,Continental
+635,European Youth Series - Annecy (France) 2010,23/10/10,24/10/10,EYS Annecy,Continental
+636,European Youth Series - Kranj (SLO) 2010,20/11/10,21/11/10,EYS Kranj,Continental
+637,"IFSC PanAmerican Championship (L, S, B) - Quito (ECU) 2010",18/5/10,22/5/10,PACH Quito,Continental
+638,"PanAmerican Youth Championship (L,S, B) - Ibarra (ECU)",23/11/10,28/11/10,PAC YCH Ibarra,Continental
+640,CISM Winter Military World Games - Courmayeur (ITA) 2010,21/3/10,22/3/10,CISM Courmayeur,Other
+642,Regional European Competition  (L + S) - Volos and Almyros (GRE) 2010,23/4/10,24/4/10,REC Greece,Other
+645,Promotional Event - Kitzbuhel (AUT) 2010,23/4/10,24/4/10,Kitzbuhel Promo,Other
+655,Rock Master - World Championship Pre-event - Arco (ITA),16/7/10,18/7/10,Rockmaster Arco,Other
+656,Rockmaster ARCO  2010 - Duel Lead,18/7/10,18/7/10,10_Arco_Duel,Other
+661,"Lead International Event, Open International - Briancon (FRA) 2010",29/7/10,31/7/10,Lead Master Briancon,Other
+663,"Promotional Event - Youyang, Chongqing (CHN)",28/9/10,30/9/10,Youyang Promo,Other
+664,Jiangyin Rock Master - Jiangyin (CHN) 2010,2/11/10,3/11/10,RM_Jangyin,Other
+665,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",14/4/11,17/4/11,Milano,World Cup
+667,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,7/5/11,8/5/11,Log-Dragomer,World Cup
+668,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,13/5/11,14/5/11,Vienna,World Cup
+669,IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,27/5/11,28/5/11,Canmore,World Cup
+670,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,3/6/11,4/6/11,Vail,World Cup
+671,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,17/6/11,18/6/11,Eindhoven,World Cup
+672,IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,25/6/11,26/6/11,Barcelona,World Cup
+673,IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2/7/11,3/7/11,Sheffield,World Cup
+674,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",12/7/11,13/7/11,Chamonix,World Cup
+675,IFSC Climbing World Championships  - Arco (ITA) 2011,15/7/11,24/7/11,WCH Arco 2011,World Championship
+676,IFSC World Championship Lead Group A - Arco 2011,20/7/11,21/7/11,Arco Group A,World Championship
+677,IFSC World Championship Lead Group B - Arco 2011,20/7/11,21/7/11,Arco Group B,World Championship
+678,IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,29/7/11,30/7/11,Briançon,World Cup
+679,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,6/8/11,7/8/11,Daone,World Cup
+680,IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,19/8/11,20/8/11,Munich,World Cup
+681,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2/9/11,3/9/11,Xining,World Cup
+682,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",7/9/11,8/9/11,Changzhi,World Cup
+683,IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,30/9/11,1/10/11,Puurs,World Cup
+684,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,8/10/11,9/10/11,Boulder,World Cup
+685,IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,20/10/11,21/10/11,Amman,World Cup
+686,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,28/10/11,29/10/11,Valence,World Cup
+687,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,19/11/11,20/11/11,Kranj,World Cup
+688,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,26/11/11,27/11/11,Barcelona,World Cup
+689,IFSC World Youth Championship - Imst (AUT) - 2011,25/8/11,28/8/11,YWC Imst,World Championship
+692,Asian Continental Championship - Huangshi (CHN) 2011,9/12/11,11/12/11,Asian_Championship,Continental
+693,Asian Youth Championship - Singapore (SGP) 2011,28/7/11,30/7/11,Asian_Youth_Chp,Continental
+694,European Youth Cup (S) - Tarnow (POL) 2011,14/5/11,14/5/11,Tarnow,Continental
+695,"European Youth Cup (L,S) - Edinburgh (GBR) 2011",20/5/11,22/5/11,Edinburgh,Continental
+696,European Youth Cup (S) - Chamonix (FRA) 2011,9/7/11,10/7/11,Chamonix,Continental
+697,European Youth Cup (S) - Friedrichshafen (GER) 2011,14/7/11,14/7/11,Friedrichshafen,Continental
+698,"European Youth Cup (L,S) - Veliko Tarnovo (BUL) 2011",1/8/11,4/8/11,Veliko,Continental
+699,European Youth Cup (L) - Imst (AUT) 2011,12/8/11,14/8/11,Imst,Continental
+700,European Youth Cup (B) - Meran (ITA) 2011,10/9/11,11/9/11,Meran,Continental
+701,European Youth Cup (B)- Munich (GER) 2011,16/9/11,17/9/11,Munich,Continental
+702,European Youth Cup (L) - Pau (FRA) 2011,11/11/11,12/11/11,Pau,Continental
+703,European Youth Cup (L)- Kranj (SLO) 2011,26/11/11,27/11/11,Kranj,Continental
+707,Rheintal Cup - Kinder-Bouldertag Küblis (B),6/3/11,6/3/11,RC Kinder Küblis,Other
+709,Rheintal Cup - Junior Cup Dornbirn (L),9/4/11,9/4/11,RC Junior Dornbirn,Other
+715,"Intl. Youth Event - Petzen Climbing Trophy (L, S, B) - Petzen (AUT) 2011 ",7/7/11,8/7/11,Petzen Climbing,Other
+716,Promotional Event - Mammut Blocmaster - Innsbruck (AUT) 2011,9/7/11,10/7/11,Promo Mammut,Other
+717,Rockmaster Gala Duel - Arco (ITA) 2011,23/7/11,24/7/11,Rockmaster Duel,Other
+718,International Climbing Festival (under 14) - Veliko Tarnovo (BUL) 2011,27/7/11,29/7/11,Under14_Veliko,Other
+722,Rheintal Cup - Megusta-Kids-Cup (L),24/9/11,24/9/11,Megusta-Kids-Cup,Other
+723,Rheintal Cup - Megusta-Kids-Cup (S),24/9/11,24/9/11,Speed Megusta,Other
+725,Jiangyin Rock Master - Jiangyin (CHN) 2011,15/10/11,16/10/11,Jiangyin_11,Other
+726,Rheintal Cup Finale - Nikoloklettern Dornbirn (L),3/12/11,3/12/11,RC Nikoloklettern Do,Other
+727,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",13/4/12,14/4/12,Chongqing,World Cup
+728,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,21/4/12,22/4/12,Log-Dragomer,World Cup
+729,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,27/4/12,28/4/12,Vienna,World Cup
+730,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,18/5/12,19/5/12,Innsbruck,World Cup
+731,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,1/6/12,2/6/12,Vail,World Cup
+732,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",12/7/12,13/7/12,Chamonix,World Cup
+733,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,20/7/12,21/7/12,Briançon,World Cup
+734,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,28/7/12,29/7/12,Daone,World Cup
+735,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,10/8/12,11/8/12,Imst,World Cup
+736,IFSC Climbing Worldcup (B) - Munich (GER) 2012,25/8/12,26/8/12,Munich,World Cup
+737,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,1/9/12,2/9/12,Arco,World Cup
+738,IFSC Climbing World Championship - Paris (FRA) 2012,12/9/12,16/9/12,WCH Paris,World Championship
+739,IFSC World Championship Lead Group A - Paris 2012,11/9/12,12/9/12,Paris,World Championship
+740,IFSC World Championship Lead Group B - Paris 2012,11/9/12,12/9/12,Paris,World Championship
+741,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,21/9/12,22/9/12,Puurs,World Cup
+742,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,29/9/12,30/9/12,Atlanta,World Cup
+743,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",12/10/12,13/10/12,Xining,World Cup
+744,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",20/10/12,21/10/12,Mokpo,World Cup
+745,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,27/10/12,28/10/12,Inzai,World Cup
+746,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,17/11/12,18/11/12,Kranj,World Cup
+747,IFSC World Youth Championship - Singapore (SIN) - 2012,29/8/12,1/9/12,YWCH Singapore,World Championship
+750,"Asian Continental Championship - Leye, Guangxi (CHN) 2012",25/4/12,28/4/12,Asian_Ch_12,Continental
+752,Asian Youth Championship - Hamedan (IRI) 2012,11/7/12,13/7/12,Asian_Youth_Chp_12,Continental
+753,"European Youth Cup (L,S) - Edinburgh (GBR) 2012",18/5/12,20/5/12,Edinburgh,Continental
+754,"European Youth Cup (L,S) - Moscow (RUS) 2012",25/5/12,27/5/12,Moscow,Continental
+755,European Youth Cup (B) - Grindelwald (SUI) 2012,2/6/12,3/6/12,Grindelwald,Continental
+756,European Youth Cup (L) - Voiron (FRA) 2012,9/6/12,9/6/12,Voiron,Continental
+757,European Youth Cup (L) - Linz (AUT) 2012,30/6/12,1/7/12,Linz,Continental
+758,European Youth Cup (S) - Chamonix (FRA) 2012,8/7/12,8/7/12,Chamonix,Continental
+759,European Youth Cup (B) - L'Argentière (FRA) 2012,25/7/12,26/7/12,Argentiere,Continental
+760,European Youth Cup (L) - Imst (AUT) 2012,4/8/12,5/8/12,Imst,Continental
+761,European Youth Cup (S) - Pieve (ITA) 2012,11/8/12,11/8/12,Pieve,Continental
+762,"European Youth Championship (L,S) - Gémozac (FRA) 2012",2/11/12,4/11/12,Gemozac,Continental
+763,European Youth Cup (L) - Kranj (SLO) 2012,24/11/12,25/11/12,Kranj,Continental
+764,"IFSC Panamerican Championship (L, S, B) - San Juan de los Morros (VEN) 2012",7/11/12,10/11/12,,Continental
+765,"PanAmerican Youth Championship (L,S, B) - Santiago (CHI) 2012",21/11/12,25/11/12,PAC YCH Santiago,Continental
+769,Rheintal Cup - Junior Cup Dornbirn (L) 2012,24/3/12,24/3/12,RC Dornbirn Junior,Other
+770,Rheintal Cup - Bouldertag Küblis (B) 2012,15/4/12,15/4/12,RB Küblis,Other
+782,"Intl. Event Open for Rockmaster (L, B) - Arco (ITA) 2012",30/8/12,31/8/12,Arco_Open,Other
+783,"Intl. Event (L, B) - ROCKMASTER - Arco (ITA) 2012",1/9/12,2/9/12,Arco_RM_12,Other
+784,Rheintal Cup - Megusta Cup Chur 2012,22/9/12,22/9/12,RC Megusta Chur ,Other
+785,Rheintal Cup - Megusta Cup Chur (S) 2012,22/9/12,22/9/12,RC Megusta Speed,Other
+788,Rheintal Cup - Nikoloklettern Dornbirn (L) 2012,8/12/12,8/12/12,RC Dornbirn,Other
+789,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",22/3/13,23/3/13,Chongqing,World Cup
+790,IFSC Climbing Worldcup (B) - Millau (FRA) 2013,5/4/13,6/4/13,Millau,World Cup
+791,IFSC Climbing Worldcup (B) - Kitzbühel (AUT) 2013,26/4/13,27/4/13,Kitzbühel,World Cup
+792,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2013,11/5/13,12/5/13,Log-Dragomer,World Cup
+793,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2013,17/5/13,18/5/13,Innsbruck,World Cup
+794,IFSC Climbing Worldcup (B) - Toronto (CAN) 2013,1/6/13,2/6/13,Toronto,World Cup
+795,IFSC Climbing Worldcup (B) - Vail (USA) 2013,7/6/13,8/6/13,Vail,World Cup
+796,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,22/6/13,23/6/13,Baku,World Cup
+797,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,19/7/13,20/7/13,Briançon,World Cup
+798,IFSC Climbing Worldcup (L) - Imst (AUT) 2013,9/8/13,10/8/13,Imst,World Cup
+799,IFSC Climbing Worldcup (B) - Munich (GER) 2013,24/8/13,25/8/13,Munich,World Cup
+800,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,7/9/13,7/9/13,Arco,World Cup
+801,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,20/9/13,21/9/13,Puurs,World Cup
+802,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",27/9/13,29/9/13,Perm,World Cup
+803,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",11/10/13,12/10/13,Mokpo,World Cup
+804,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,15/10/13,16/10/13,Haiyang,World Cup
+805,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",19/10/13,20/10/13,Wujiang,World Cup
+806,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,1/11/13,2/11/13,Valence,World Cup
+807,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,16/11/13,17/11/13,Kranj,World Cup
+808,IFSC World Youth Championship - Central Saanich (CAN) - 2013,15/8/13,19/8/13,WYCH Saanich,World Championship
+813,"Asian Continental Championship - Tehran, (IRN) 2013",22/5/13,24/5/13,Asian Champ.,Continental
+814,Asian Youth Championship - Surabaya (INA) 2013,11/12/13,14/12/13,Asian_Youth_Chp_13,Continental
+815,"European Cup (L, S) - Ekaterinburg (RUS) 2013",16/5/13,19/5/13,EC Ekaterinburg,Continental
+816,"European Championship (L,S) - Chamonix (FRA) 2013 ",10/7/13,13/7/13,LSEuro Chamonix,Continental
+817,European Championship (B) - Eindhoven (NED) 2013,31/8/13,1/9/13,Eindhoven,Continental
+818,European Youth Championship (B) - Grindelwald (SUI) 2013,25/5/13,26/5/13,BEuro Grindelwald,Continental
+819,"European Youth Cup (L, S) - Edinburgh (GBR) 2013",8/6/13,9/6/13,Edinburgh,Continental
+820,European Youth Cup (B) - Sofia (BUL) 2013,28/6/13,30/6/13,Sofia,Continental
+821,European Youth Cup (S) - Imst (AUT) 2013,29/6/13,29/6/13,Imst,Continental
+822,European Youth Cup (S) - Chamonix (FRA) 2013,9/7/13,11/7/13,Chamonix,Continental
+823,European Youth Cup (B) - L'Argentière (FRA) 2013,22/7/13,23/7/13,Argentiere,Continental
+824,"European Youth Championship (L,S) - Imst (AUT) 2013",25/7/13,28/7/13,LSEuro Imst,Continental
+825,European Youth Cup (L) - Stavanger (NOR) 2013,7/9/13,8/9/13,Stavanger,Continental
+826,European Youth Cup (B) - Laval (FRA) 2013,12/10/13,13/10/13,Laval,Continental
+827,Oceania Continental Championship - Nouméa (New Caledonia) 2013,25/5/13,26/5/13,Oceania Championship,Continental
+828,"2nd CISM World Winter Games ""Annecy-Chamonix 2013""",25/3/13,29/3/13,CISM,Other
+829,The World Games 2013 - Cali (COL) 2013,3/8/13,4/8/13,WG_2013,Other
+830,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2013,2/3/13,3/3/13,Promo Sheffield,Other
+842,"Intl. Event Open for Rockmaster (L, B) - Arco (ITA) 2013",5/9/13,6/9/13,Arco_Open,Other
+843,"Intl. Event (L, B) - ROCKMASTER - Arco (ITA) 2013",7/9/13,7/9/13,Arco Rockmaster,Other
+847,Promotional Event -  (L) - Haiyang (CHN) 2013,15/10/13,16/10/13,Haiyang Promo,Other
+849,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",26/4/14,27/4/14,Chongqing,World Cup
+850,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",3/5/14,4/5/14,Baku,World Cup
+851,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,10/5/14,11/5/14,Grindelwald,World Cup
+852,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,16/5/14,17/5/14,Innsbruck,World Cup
+853,IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,31/5/14,1/6/14,Toronto,World Cup
+854,IFSC Climbing Worldcup (B) - Vail (USA) 2014,6/6/14,7/6/14,Vail,World Cup
+855,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",20/6/14,22/6/14,Haiyang,World Cup
+856,IFSC Climbing Worldcup (B) - Laval (FRA) 2014,27/6/14,28/6/14,Laval,World Cup
+857,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",10/7/14,12/7/14,Chamonix,World Cup
+858,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014,19/7/14,20/7/14,Briançon,World Cup
+859,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,1/8/14,2/8/14,Imst,World Cup
+860,IFSC Climbing World Championship (B) - Munich (GER) 2014,21/8/14,23/8/14,Munich,World Championship
+861,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,30/8/14,31/8/14,Arco,World Cup
+862,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",8/9/14,14/9/14,Gijon,World Championship
+863,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",11/10/14,12/10/14,Mokpo,World Cup
+864,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",18/10/14,19/10/14,Wujiang,World Cup
+865,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,25/10/14,26/10/14,Inzai,World Cup
+866,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,15/11/14,16/11/14,Kranj,World Cup
+867,"IFSC World Youth Championship - Noumea, New Caledonia (FRA) - 2014",19/9/14,23/9/14,WYCH Noumea,World Championship
+874,22th Asian Continental Championship - Lombok (INA) 2014,1/10/14,3/10/14,ACH Lombok,Continental
+875,European Youth Cup (L) - Imst (AUT) 2014 ,31/5/14,1/6/14,ImstEYC,Continental
+876,"European Youth Championship (L,S) - Edinburgh 2014",14/6/14,15/6/14,LSEuro Edin,Continental
+877,European Youth Cup (S) - Imst (AUT) 2014 ,5/7/14,5/7/14,ImstEYC,Continental
+878,European Youth Cup (S) - Chamonix (FRA) 2014 ,9/7/14,9/7/14,ChamEYC14,Continental
+879,European Youth Cup (B) - L'Argentière (FRA) 2014 ,22/7/14,23/7/14,ArgentiereEYC14,Continental
+880,European Youth Cup (B) - Laengenfeld/Oetzal (AUT) 2014 ,15/8/14,16/8/14,LaengenfeldEYC14,Continental
+881,European Youth Championship (B) - Arco (ITA) 2014 ,6/9/14,7/9/14,BEuro Arco,Continental
+882,"PanAmerican Youth Championship (L,S, B) - Mexico City (MEX) 2014",26/11/14,30/11/14,PAC YCH Mexico City,Continental
+883,Oceania International Open - Katoomba (AUS) 2014,17/10/14,19/10/14,Oceania Master,Other
+886,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2014,15/3/14,16/3/14,Promo Sheffield,Other
+892,"Intl. Event Open for Rockmaster (L, B) - Arco (ITA) 2014",28/8/14,29/8/14,Arco_Open,Other
+893,"Intl. Event (L, B) - ROCKMASTER - Arco (ITA) 2014",30/8/14,31/8/14,Arco Rockmaster,Other
+897,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,17/5/15,17/5/15,Saanich15 ,World Cup
+898,IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,30/5/15,31/5/15,Toronto15 ,World Cup
+899,IFSC Climbing Worldcup (B) - Vail (USA) 2015,5/6/15,6/6/15,Vail,World Cup
+900,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",20/6/15,21/6/15,Chongqing,World Cup
+901,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",26/6/15,27/6/15,Haiyang,World Cup
+902,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",10/7/15,12/7/15,Chamonix,World Cup
+903,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,17/7/15,18/7/15,Briançon,World Cup
+904,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,31/7/15,1/8/15,Imst,World Cup
+905,IFSC Climbing Worldcup (B) - Munich (GER) 2015,14/8/15,15/8/15,Munich,World Cup
+906,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,21/8/15,22/8/15,Stavanger,World Cup
+907,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,26/9/15,27/9/15,Puurs,World Cup
+908,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",17/10/15,18/10/15,Wujiang,World Cup
+909,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,14/11/15,15/11/15,Kranj,World Cup
+910,IFSC World Youth Championships - Arco (ITA) - 2015,28/8/15,6/9/15,WYCH Arco,World Championship
+914,Asian Continental Championship - Ningbo (CHN) 2015,22/11/15,24/11/15,ACH Ningbo,Continental
+915,Asian Youth Championship - Putrajaya (MAS) 2015,2/12/15,6/12/15,Asian_Youth_Chp_15,Continental
+916,European Championship (B) - Innsbruck (AUT) 2015,14/5/15,16/5/15,InnsbruckECH15,Continental
+917,"European Championship (L,S) - Chamonix (FRA) 2015",10/7/15,12/7/15,ChamECH15,Continental
+918,European Youth Cup (L) - Dornbirn (AUT) 2015 ,9/5/15,10/5/15,DornbirnEYC15,Continental
+919,European Youth Cup (L) - Imst (AUT) 2015,30/5/15,31/5/15,ImstEYC15,Continental
+920,European Youth Cup (S) - Tarnow (POL) 2015 ,6/6/15,6/6/15,ImstEYC,Continental
+921,European Youth Cup (B) - Laengenfeld (AUT) 2015 ,4/7/15,5/7/15,LaengenfeldEYC15,Continental
+922,"European Youth Championship (L, S) - Edinburgh (GBR) 2015",12/6/15,14/6/15,LSEuro Edin,Continental
+923,European Youth Championship (B) - L'Argentière la Bessée (FRA) 2015 ,21/7/15,22/7/15,BEuro Argentiere,Continental
+924,European Youth Cup (L) - Mitterdorf (AUT) 2015 ,8/8/15,9/8/15,MitterdorfEYC15,Continental
+925,European Youth Cup (S) - Imst (AUT) 2015 ,22/8/15,22/8/15,ImstEYC,Continental
+926,European Universities Sport Climbing Championship - Katowice (POL) 2015,5/8/15,9/8/15,EUC15,Other
+929,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2015,7/3/15,8/3/15,Promo Sheffield,Other
+937,IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,15/4/16,16/4/16,MeiringenWC,World Cup
+938,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,23/4/16,24/4/16,KazoWC,World Cup
+939,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",30/4/16,1/5/16,ChongqingWC,World Cup
+940,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,7/5/16,8/5/16,NanjingWC,World Cup
+941,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,14/5/16,15/5/16,NaviMumbaiWC,World Cup
+942,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,20/5/16,21/5/16,TyrolWC,World Cup
+943,IFSC Climbing Worldcup (B) - Vail (USA) 2016,10/6/16,11/6/16,VailWC,World Cup
+944,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",11/7/16,12/7/16,ChamonixWC,World Cup
+945,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",15/7/16,16/7/16,VillarsWC,World Cup
+946,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,22/7/16,23/7/16,BriançonWC,World Cup
+947,IFSC Climbing Worldcup (B) - Munich (GER) 2016,12/8/16,13/8/16,MunichWC,World Cup
+948,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,19/8/16,20/8/16,ImstWC,World Cup
+949,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",26/8/16,27/8/16,ArcoWC,World Cup
+950,IFSC Climbing World Championships - Paris (FRA) 2016,13/9/16,18/9/16,WCH Paris,World Championship
+951,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,18/10/16,19/10/16,Wujiang,World Cup
+952,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,26/11/16,27/11/16,KranjWC,World Cup
+953,IFSC World Youth Championships - Guangzhou (CHN) - 2016,7/11/16,13/11/16,WYCH Guangzhou,World Championship
+958,Asian Continental Championship - Duyun (CHN) 2016,3/8/16,6/8/16,ACH Duyun,Continental
+959,Asian Youth Championship - Tehran (IRI) 2016,26/9/16,30/9/16,Asian_Youth_Chp_16,Continental
+960,European Youth Cup (S) - Tarnow (POL) 2016 ,16/4/16,18/4/16,EYC_POL_16,Continental
+961,European Youth Cup (B) - Soure (POR) 2016,7/5/16,8/5/16,EYC_POR_16,Continental
+962,European Youth Cup (L) - Imst (AUT) 2016 ,28/5/16,29/5/16,EYC_AUT_L_16,Continental
+963,European Youth Cup (B) - Graz (AUT) 2016 ,18/6/16,19/6/16,EYC_Graz_16,Continental
+964,European Youth Cup (B) - Warsaw (POL) 2016 ,2/7/16,3/7/16,EYC_Warsaw_16,Continental
+965,European Youth Cup (B) - L'Argentière (FRA) 2016 ,26/7/16,27/7/16,EYC_Argentiere_16,Continental
+966,European Youth Championships (B) - Langenfeld (AUT) 2016 ,4/8/16,6/8/16,EYCH_Langenfeld_16,Continental
+967,"European Youth Championships (L,S) - Mitterdorf (AUT) 2016 ",2/9/16,4/9/16,EYCH_Mitterdorf_16,Continental
+968,European Youth Cup (S) - Imst (AUT) 2016 ,10/9/16,10/9/16,EYC_AUT_S_16,Continental
+969,Oceania Continental Championship - Sidney (AUS) 2016,17/6/16,19/6/16,Oceania Championship,Continental
+973,World University Championships - Shanghai (CHN) 2016,12/10/16,16/10/16,UCH16,Other
+976,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2016,12/3/16,13/3/16,Promo Sheffield,Other
+979,Promotional Event (B) IMF GIRIVIHAR - Navi Mumbai (IND) 2016,16/5/16,16/5/16,NaviMumbaiPromo ,Other
+981,Master Event - Tout à Bloc (B) - L'Argentière la Bessée (FRA) 2016,28/7/16,30/7/16,TAB 2016,Other
+985,IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,7/4/17,8/4/17,MeiringenWC,World Cup
+986,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",22/4/17,23/4/17,ChongqingWC,World Cup
+987,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",29/4/17,30/4/17,NanjingWC,World Cup
+988,"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",6/5/17,7/5/17,TokyoWC,World Cup
+989,IFSC Climbing Worldcup (B) - Vail (USA) 2017,9/6/17,10/6/17,VailWC,World Cup
+990,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,24/6/17,25/6/17,MumbaiWC,World Cup
+991,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",7/7/17,8/7/17,VillarsWC,World Cup
+992,IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,18/8/17,19/8/17,MunichWC,World Cup
+993,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",25/8/17,26/8/17,ArcoWC,World Cup
+994,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",23/9/17,24/9/17,EdinburghWC,World Cup
+995,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",7/10/17,8/10/17,Wujiang,World Cup
+996,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",14/10/17,15/10/17,XiamenWC,World Cup
+997,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,11/11/17,12/11/17,KranjWC,World Cup
+998,IFSC Youth World Championships - Innsbruck (AUT) - 2017,30/8/17,10/9/17,WYCH Innsbruck,World Championship
+999,IFSC Youth World Championships Combined - Innsbruck (AUT) - 2017,8/9/17,9/9/17,YWCH Combined,World Championship
+1004,Asian Continental Championships - Tehran (IRI) 2017,18/9/17,21/9/17,ACH Tehran,Continental
+1005,Asia Cup - Wanxianshan (CHN) 2017,27/10/17,29/10/17,Asia_Cup_17,Continental
+1007,Asian Youth Championships - Singapore (SGP) 2017,5/7/17,9/7/17,Asian_Youth_Chp_17,Continental
+1008,"European Championship (L,S) - Campitello di Fassa (ITA) 2017 ",30/6/17,1/7/17,CAMPECH17,Continental
+1009,European Championship (B) - Munich (GER) 2017 ,18/8/17,19/8/17,MunichECH,Continental
+1010,European Youth Cup (B) - Graz (AUT) 2017 ,29/4/17,30/4/17,EYC_Graz_17,Continental
+1011,European Youth Cup (S) - Tarnow (POL) 2017,12/5/17,13/5/17,EYC_POL_17,Continental
+1012,European Youth Cup (B) - Soure (POR) 2017,20/5/17,21/5/17,EYC_POR_17,Continental
+1013,European Youth Cup (L) - Imst (AUT) 2017,27/5/17,28/5/17,EYC_AUT_L_17,Continental
+1014,European Youth Cup (L) - Dornbirn (AUT) 2017,10/6/17,11/6/17,EYC_AUT_L_17,Continental
+1015,European Youth Cup (S) - Bologna (ITA) 2017,17/6/17,17/6/17,EYC_ITA_17,Continental
+1016,European Youth Cup (L) - Uster (SUI) 2017,24/6/17,25/6/17,EYC_AUT_L_17,Continental
+1017,European Youth Cup (B) - L'Argentière (FRA) 2017 ,18/7/17,19/7/17,EYC_Argentiere_17,Continental
+1018,European Youth Cup (B) - Sofia (BUL) 2017,5/8/17,6/8/17,Sofia,Continental
+1019,European Youth Cup (L) - Mitterdorf (AUT) 2017,12/8/17,13/8/17,EYC_AUT_L_17,Continental
+1020,European Youth Cup (S) - Imst (AUT) 2017,27/8/17,27/8/17,EYC_AUT_S_17,Continental
+1021,European Youth Championships (B) - Slany (CZE) 2017,15/9/17,16/9/17,EYCH_Slany_17,Continental
+1022,"European Youth Championships (L,S) - Perm (RUS) 2017",28/9/17,1/10/17,EYCH_Perm_17,Continental
+1023,European Youth Championship Combined (Youth A) - Saint-Etienne (FRA) 2017,25/11/17,26/11/17,EYCH_St.Etienne_2017,Continental
+1024,"PanAmerican Youth Championship (L, S, B) - Montreal (CAN) 2017 ",30/10/17,5/11/17,PAC Montreal,Continental
+1025,PanAmerican Youth Championship Combined - Montreal (CAN) 2017 ,29/10/17,30/10/17,PAC Montreal Comb,Continental
+1027,3rd CISM World Winter Games - Sochi (RUS) 2017,22/2/17,27/2/17,CISM2017,Other
+1028,The World Games 2017 - Wroclaw (POL) 2017,21/7/17,23/7/17,WG_2017,Other
+1029,"African Youth A YOG - Johannesburg, Gauteng (RSA) 2017",7/12/17,8/12/17,YOG17,Other
+1032,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2017,18/3/17,19/3/17,Promo Sheffield,Other
+1045,China Open Qualification - Guangzhou (CHN) 2017,17/11/17,17/11/17,China_Open_17,Other
+1046,China Open - Guangzhou (CHN) 2017,18/11/17,19/11/17,China_Open_17,Other
+1047,IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,13/4/18,14/4/18,MeiringenWC,World Cup
+1048,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",21/4/18,22/4/18,MoscowWC,World Cup
+1049,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",5/5/18,6/5/18,ChongqingWC,World Cup
+1050,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",12/5/18,13/5/18,TaianWC,World Cup
+1051,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,2/6/18,3/6/18,TokyoWC,World Cup
+1052,IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,8/6/18,9/6/18,VailWC,World Cup
+1053,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",6/7/18,7/7/18,VillarsWC,World Cup
+1054,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",11/7/18,13/7/18,ChamonixWC,World Cup
+1055,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,20/7/18,21/7/18,BriançonWC,World Cup
+1056,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",27/7/18,28/7/18,ArcoWC,World Cup
+1057,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,17/8/18,18/8/18,MunichWC,World Cup
+1058,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,29/9/18,30/9/18,KranjWC,World Cup
+1059,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",20/10/18,21/10/18,Wujiang,World Cup
+1060,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",27/10/18,28/10/18,XiamenWC,World Cup
+1061,IFSC Climbing World Championships - Innsbruck (AUT) 2018,6/9/18,16/9/18,WCH Innsbruck,World Championship
+1062,IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018,15/9/18,16/9/18,WCH Combined,World Championship
+1063,IFSC Youth World Championships -  Moscow (RUS) 2018,9/8/18,16/8/18,WYCH Central Saanich,World Championship
+1067,Asia Cup (B) - Hong Kong (HKG) 2018,10/3/18,11/3/18,Asia_Cup_18,Continental
+1068,"Asia Cup (B,S) - Bangkok (THA) 2018",15/6/18,17/6/18,Asia_Cup_18,Continental
+1069,Asian Championships - Kurayoshi (JPN) 2018 ,7/11/18,11/11/18,ACH Kurayoshi ,Continental
+1070,Asian Championships Combined - Kurayoshi (JPN) 2018 ,11/11/18,11/11/18,ACH Kurayoshi comb,Continental
+1072,Asian Youth Championships - Chongqing (CHN) 2018,1/11/18,4/11/18,Asian_Youth_Chp_18,Continental
+1073,"European Youth Cup (L,S) - Voiron (FRA) 2018 ",7/4/18,8/4/18,EYC_FRA_18,Continental
+1074,European Youth Cup (B) - Graz (AUT) 2018 ,28/4/18,29/4/18,EYC_Graz_18,Continental
+1075,European Youth Cup (B) - Soure (POR) 2018 ,5/5/18,6/5/18,EYC_POR_18,Continental
+1076,European Youth Cup (S) - Bologna (ITA) 2018 ,12/5/18,13/5/18,EYC_ITA_18,Continental
+1077,"European Youth Championship (L, S) - Imst 2018",25/5/18,27/5/18,EYCH_AUT_18,Continental
+1078,European Youth Cup (B) - Delft (NED) 2018 ,2/6/18,3/6/18,EYC_NED_18,Continental
+1079,European Youth Cup (L) - Bruneck (ITA) 2018 ,16/6/18,17/6/18,EYC_ITA_18,Continental
+1080,European Youth Cup (S) - Mezzolombardo (ITA) 2018 ,22/6/18,24/6/18,EYC_ITA_18,Continental
+1081,European Youth Cup (L) - Uster (SUI) 2018 ,30/6/18,1/7/18,EYC_L_SUI,Continental
+1082,European Youth Cup (L) - Munich (GER) 2018 ,7/7/18,8/7/18,EYC_L_MUN,Continental
+1083,European Youth Cup (B) - Sofia (BUL) 2018 ,21/7/18,22/7/18,Sofia,Continental
+1084,European Youth Championships (B) - Brussels (BEL) 2018 ,31/8/18,2/9/18,EYCH_Brussels_18,Continental
+1085,"IFSC PanAmerican Championship (L, S, B, C) - Guayaquil (ECU) 2018",21/11/18,26/11/18,PAC Guayaquil,Continental
+1088,World University Championships - Bratislava (SVK) 2018,20/6/18,23/6/18,UCH18,Other
+1091,Promo Event - The Climbing Works International Festival (B) - Sheffield (GBR) 2018,10/3/18,11/3/18,Promo Sheffield,Other
+1095,"International Climbing Series - Outdoor Village Speed Stars - Akishima, Tokyo (JPN) 2018",28/4/18,29/4/18,Speed Stars 2018,Other
+1098,Promo Event - International Climbing Elite Tournament (L + S) - Ningbo (CHN) 2018,26/5/18,27/5/18,Promo Ningbo 2018,Other
+1101,Promo Event - International Climbing Elite Tournament (L + S) - Delingha(CHN) 2018,14/7/18,15/7/18,Promo Ningbo 2018,Other
+1107,Promo Event - International Climbing Elite Tournament (L+S) - Huai’an (CHN) 2018,9/10/18,10/10/18,Promo Ningbo 2018,Other
+1108,Promo Event - International Climbing Elite Tournament (L+S) - Wanxianshan (CHN) 2018,13/10/18,14/10/18,Promo Ningbo 2018,Other
+1109,International Climbing Series - China Open Semifinals & Finals - Guanzhou (CHN) 2018,15/11/18,17/11/18,China_Open_Q,Other
+1110,International Climbing Series - China Open - Guangzhou (CHN) 2018 ,16/11/18,18/11/18,China_Open_18,Other
+1111,Promo Event - International Climbing Elite Tournament (L+S) - Leye (CHN) 2018,24/11/18,25/11/18,Promo Ningbo 2018,Other
+1112,IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,5/4/19,6/4/19,MeiringenWC,World Cup
+1113,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",12/4/19,14/4/19,MoscowWC,World Cup
+1114,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",26/4/19,28/4/19,ChongqingWC,World Cup
+1115,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",3/5/19,5/5/19,WujiangWC,World Cup
+1116,IFSC Climbing Worldcup (B) - Munich (GER) 2019,18/5/19,19/5/19,MunichWC,World Cup
+1117,IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,7/6/19,8/6/19,VailWC,World Cup
+1118,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",4/7/19,6/7/19,VillarsWC,World Cup
+1119,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",11/7/19,13/7/19,ChamonixWC,World Cup
+1120,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,19/7/19,20/7/19,BriançonWC,World Cup
+1121,IFSC Climbing World Championships - Hachioji (JPN) 2019,11/8/19,21/8/19,WCH Hachioji,World Championship
+1122,IFSC Climbing World Championships Combined - Hachioji (JPN) 2019,18/8/19,21/8/19,WCH Combined,World Championship
+1123,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,28/9/19,29/9/19,KranjWC,World Cup
+1124,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",18/10/19,20/10/19,XiamenWC,World Cup
+1125,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,26/10/19,27/10/19,InzaiWC,World Cup
+1126,IFSC Youth World Championships -  Arco (ITA) 2019 ,22/8/19,31/8/19,YWCH Arco,World Championship
+1131,Asian Championships - Bogor (INA) 2019,6/11/19,10/11/19,ACH Palembang,Continental
+1132,Asian Combined Youth Championships - Chongqing (CHN) 2019,14/11/19,17/11/19,Asian_Youth_Chp_18,Continental
+1133,Asian Youth Championships - Bengaluru (IND) 2019 ,12/12/19,15/12/19,Asian_Youth_Chp_19,Continental
+1134,"IFSC European Cup (B,S) - Innsbruck (AUT) 2019",2/5/19,4/5/19,Inns19,Continental
+1135,European Championship (B) - Zakopane (POL) 2019,5/9/19,7/9/19,PolandECH,Continental
+1136,"European Championship (L,S) - Edinburgh (GBR) 2019",4/10/19,6/10/19,EdinCH19,Continental
+1137,European Youth Cup (B) - Soure (POR) 2019,27/4/19,28/4/19,Soure,Continental
+1138,European Youth Cup (B) - Graz (AUT) 2019,11/5/19,12/5/19,Graz,Continental
+1139,European Youth Cup (S) - Mezzolombardo (ITA) 2019,18/5/19,18/5/19,Mazzolombardo,Continental
+1140,European Youth Cup (B) - Sofia (BUL) 2019,25/5/19,26/5/19,Sofia,Continental
+1141,European Youth Cup (L) - Ostermundigen (SUI) 2019,22/6/19,23/6/19,Ostermundigen,Continental
+1142,European Youth Cup (L) - St. Pierre Faucigny (FRA) 2019,29/6/19,30/6/19,St. Pierre Faucigny,Continental
+1143,European Youth Cup (S) - Tarnow (POL) 2019,19/7/19,20/7/19,Tarnow,Continental
+1144,"European Youth Cup (S,L) - Imst (AUT) 2019",2/8/19,4/8/19,Imst,Continental
+1145,European Youth Championships (B) - Brixen (ITA) 2019,20/9/19,22/9/19,EYCH_Brixen_19,Continental
+1146,"European Youth Championships (L,S) - Voronezh (RUS) 2019",18/10/19,20/10/19,EYCH_Voronezh_19,Continental
+1147,"PanAmerican Youth Championships (L, S, B) - Ibarra (ECU) 2019 ",3/12/19,8/12/19,PAC Ibarra,Continental
+1148,PanAmerican Youth Championships Combined - Ibarra (ECU) 2019 ,7/12/19,12/12/19,PAC Ibarra,Continental
+1149,ANOC World Beach Games (B) - Doha (QAT),13/10/19,14/10/19,BG19,Other
+1152,IFSC Combined Qualifier - Toulouse/Tournefeuille (FRA) 2019,28/11/19,1/12/19,WCH Combined,Other
+1156,"International Climbing Series - Outdoor Village Speed Stars - Akishima, Tokyo (JPN) 2019",12/5/19,12/5/19,Speed Stars 2019,Other
+1162,International Climbing Series - China Open - Guangzhou (CHN) 2019,31/10/19,3/11/19,China_Open_19,Other
+1163,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",22/10/16,23/10/16,XiamenWC,World Cup
+1164,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,12/7/17,13/7/17,ChamonixWC,World Cup
+1165,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,28/7/17,29/7/17,BriançonWC,World Cup
+1166,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",20/11/20,29/11/20,Moscow,Continental
+1167,IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020,18/12/20,20/12/20,Sydney,Continental
+1168,IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020,16/12/20,20/12/20,Cape Town,Continental
+1170,UIAA Worldcup - Leipzig (GER) 1999,27/5/99,28/5/99,W-Leipzig,World Cup
+1171,IFSC Pan Am - Pre Qualifying event (C) - Los Angeles (USA) 2020,25/2/20,27/2/20,Los Angeles,Continental
+1176,Olympic Games -  Sport Climbing combined event -Tokyo (JPN) 2020,3/8/20,7/8/20,Tokyo,Other
+1177,"IFSC Youth - World Championships (B,S,L) - Voronezh (RUS) 2020 - CANCELLED",22/8/20,31/8/20,Voronezh,World Championship
+1181,IFSC Europe - Continental Youth Cup (L) - Augsburg (GER) 2020,16/9/20,18/9/20,Augsburg,Continental
+1183,IFSC Connected Speed Knockout presented by Japan Airlines,1/8/20,2/8/20,Torino,Other
+1184,IFSC Europe - Continental Cup - Voronezh (RUS) - CANCELLED,3/12/20,6/12/20,Voronezh,Continental
+1185,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",15/9/21,21/9/21,Moscow,World Championship
+1186,"IFSC - Climbing Youth World Championships (B,L,S) - Voronezh (RUS) 2021",20/8/21,31/8/21,Voronezh,World Championship
+1187,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,15/4/21,17/4/21,Meiringen,World Cup
+1189,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED",30/9/21,3/10/21,Seoul,World Cup
+1190,IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,21/5/21,23/5/21,Salt Lake City,World Cup
+1192,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",28/5/21,31/5/21,Salt Lake City,World Cup
+1193,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",22/6/21,26/6/21,Innsbruck,World Cup
+1194,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",30/6/21,3/7/21,Villars,World Cup
+1195,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,11/7/21,13/7/21,Chamonix,World Cup
+1196,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,16/7/21,18/7/21,Briançon,World Cup
+1197,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,2/9/21,4/9/21,Ljubljana,World Cup
+1200,IFSC Europe - Continental Youth Cup (S) - Tarnow (POL),13/11/20,14/11/20,Tarnow,Continental
+1205,IFSC Europe - Continental Cup (B) - Klagenfurt (AUT) 2021,9/4/21,11/4/21,Klagenfurt,Continental
+1206,IFSC Europe - Continental Cup (B) - Belgrad (SRB) 2021 - CANCELLED,28/5/21,30/5/21,Belgrad,Continental
+1207,IFSC Europe - Continental Cup (B) - Krakow (POL) 2021,6/8/21,8/8/21,Krakow,Continental
+1208,IFSC Europe - Continental Cup (S) - Innsbruck (AUT) 2021,22/6/21,23/6/21,Innsbruck,Continental
+1209,IFSC Europe - Continental Cup (S) - Gaflenz (AUT) 2021,26/6/21,27/6/21,Gaflenz,Continental
+1210,"IFSC Europe - Continental Cup (L,S) - Laval (FRA) 2021",21/10/21,24/10/21,Laval,Continental
+1211,"IFSC Europe - Continental Cup (L,S) - Tyumen (RUS) 2021 - CANCELLED",4/11/21,7/11/21,Tyumen,Continental
+1212,IFSC Europe - Continental Youth Cup (B) - Soure (POR) 2021,8/10/21,10/10/21,Soure,Continental
+1213,IFSC Europe - Continental Youth Cup (B) - Graz (AUT) 2021,13/5/21,16/5/21,Graz,Continental
+1214,IFSC Europe - Continental Youth Cup (S) - Bochum (GER) 2021,3/6/21,4/6/21,Bochum,Continental
+1215,"IFSC Europe - Continental Youth Cup (L,S) - Imst (AUT) 2021",10/6/21,13/6/21,Imst,Continental
+1216,IFSC Europe - Continental Youth Cup (L) - Ostermundigen (SUI),18/6/21,20/6/21,Ostermundigen,Continental
+1217,IFSC Europe - Continental Youth Cup (S) - Gaflenz (AUT),26/6/21,27/6/21,Gaflenz,Continental
+1218,"IFSC Europe - Continental Youth Cup (L,S) - Puurs (BEL) 2021",1/7/21,4/7/21,Puurs,Continental
+1219,IFSC Europe - Continental Youth Cup (L) - Veliko Tarnovo (BUL) 2021,23/7/21,25/7/21,Veliko Tarnovo,Continental
+1220,"IFSC Europe - Continental Youth Cup (L,S) - Zilina (SVK) 2021",28/7/21,31/7/21,Zilina,Continental
+1221,"IFSC Europe - Continental Youth Championships (B,S,L) - Perm (RUS)",30/4/21,5/5/21,Perm,Continental
+1227,Olympic Games (C) - Tokyo (JPN) 2020,2/8/21,6/8/21,Tokyo,Other
+1231,"IFSC Pan Am - Continental Championships (B,S,L) - Ibarra (ECU) 2021",30/11/21,6/12/21,Ibarra,Continental
+1233,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,7/4/22,10/4/22,Meiringen,World Cup
+1235,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",5/5/22,8/5/22,Seoul,World Cup
+1236,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",20/5/22,23/5/22,Salt Lake City,World Cup
+1237,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",27/5/22,30/5/22,Salt Lake City,World Cup
+1238,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",21/6/22,26/6/22,Innsbruck,World Cup
+1239,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",29/6/22,2/7/22,Villars-sur-Ollon,World Cup
+1240,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",7/7/22,10/7/22,Chamonix,World Cup
+1241,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,21/7/22,23/7/22,Briançon,World Cup
+1242,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1/9/22,3/9/22,Koper,World Cup
+1243,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",23/9/22,26/9/22,Jakarta,World Cup
+1245,"World Games (B,S,L) - Birmingham (USA) 2022",14/7/22,17/7/22,Birmingham,Other
+1246,"IFSC - Climbing Youth World Championships (B,S,L) - Dallas (USA) 2022",22/8/22,1/9/22,United States,World Championship
+1247,"IFSC Europe - Continental Championships (B,S,L) - Munich (GER) 2022",10/8/22,18/8/22,Munich,Continental
+1248,Asian Games - Hangzhou (CHN) 2022 - POSTPONED,14/9/22,19/9/22,Hangzhou,Other
+1249,"FISU University Championships (B,S,L) - Innsbruck (AUT) 2022",12/6/22,17/6/22,Innsbruck,Other
+1252,"IFSC Africa - Continental Championships (B,S,L) - Johannesburg (RSA) 2021",15/12/21,18/12/21,Johannesburg,Continental
+1257,Youth Olympic Games - Buenos Aires (ARG) 2018,1/10/18,28/10/18,Buenos Aires,Other
+1258,IFSC Europe - Continental Youth Cup (B) - Chambéry (FRA) 2022,8/4/22,10/4/22,Chambéry,Continental
+1259,IFSC Europe - Continental Youth Cup (B) - Soure (POR) 2022,22/4/22,24/4/22,Soure,Continental
+1260,IFSC Europe - Continental Cup (B) - Prague (CZE) 2022,28/4/22,1/5/22,Prague,Continental
+1261,IFSC Europe - Continental Cup (B) - Brixen (ITA) 2022,6/5/22,8/5/22,Brixen,Continental
+1262,"IFSC Europe - Continental Youth Cup (L,S) - Imst (AUT) 2022",26/5/22,29/5/22,Imst,Continental
+1263,IFSC Europe - Continental Cup (B) - Klagenfurt (AUT) 2022,19/5/22,21/5/22,Klagenfurt,Continental
+1264,"IFSC Europe - Continental Cup (L,S) - Tyumen (RUS) 2022 - CANCELLED",3/6/22,5/6/22,Tyumen,Continental
+1265,IFSC Europe - Continental Cup (S) - Innsbruck (AUT) 2022,20/6/22,21/6/22,Innsbruck,Continental
+1266,IFSC Europe - Continental Youth Cup (L) - Ostermundigen (SUI) 2022,24/6/22,26/6/22,Ostermundigen,Continental
+1267,IFSC Europe - Continental Youth Cup (L) - Dornbirn (AUT) 2022,1/7/22,3/7/22,Dornbirn,Continental
+1268,"IFSC Europe - Continental Youth Championship (L,S) - Augsburg (GER) 2022",7/7/22,10/7/22,Augsburg,Continental
+1269,"IFSC Europe - Continental Cup (L,S) - Žilina (SVK) 2022",15/7/22,17/7/22,Žilina,Continental
+1270,IFSC Europe - Continental Youth Cup (S) - Mezzolombardo (ITA) 2022,28/7/22,29/7/22,Mezzolombardo,Continental
+1271,IFSC Europe - Continental Cup (S) - Mezzolombardo (ITA) 2022,29/7/22,30/7/22,Mezzolombardo,Continental
+1272,IFSC Europe - Continental Youth Championship (B) - Graz (AUT) 2022,2/8/22,6/8/22,Graz,Continental
+1273,IFSC Europe - Continental Cup (S) - Hamburg (GER) 2022,24/9/22,25/9/22,Hamburg,Continental
+1274,"IFSC Europe - Continental Youth Cup (L,S,B) - Kaliningrad (RUS) 2022 - CANCELLED",11/10/22,16/10/22,Kaliningrad,Continental
+1275,IFSC Europe - Continental Cup (S) - Laval (FRA) 2022,20/10/22,22/10/22,Laval,Continental
+1283,"IFSC Europe - Continental Cup (L,S) - Arco (ITA) 2022",3/6/22,5/6/22,Arco,Continental
+1284,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,9/6/22,12/6/22,Brixen,World Cup
+1287,"IFSC Asia - Continental Championships (B, L, S, B&L) - Republic of Korea 2022",9/10/22,16/10/22,Seoul,Continental
+1288,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",8/9/22,11/9/22,Edinburgh,World Cup
+1291,IFSC World Cup Hachioji 2023,20/4/23,23/4/23,Hachioji,World Cup
+1292,IFSC World Cup Seoul 2023,27/4/23,30/4/23,Seoul,World Cup
+1293,IFSC World Cup Jakarta 2023,5/5/23,7/5/23,Indonesia,World Cup
+1294,IFSC World Cup Salt Lake City 2023,19/5/23,22/5/23,Salt Lake City,World Cup
+1295,IFSC World Cup Prague 2023,1/6/23,4/6/23,Prague,World Cup
+1296,IFSC World Cup Brixen 2023,8/6/23,11/6/23,Brixen,World Cup
+1297,IFSC World Cup Innsbruck 2023,13/6/23,18/6/23,Innsbruck,World Cup
+1298,IFSC World Cup Villars 2023,29/6/23,2/7/23,Villars-sur-Ollon,World Cup
+1299,IFSC World Cup Chamonix 2023,6/7/23,9/7/23,Chamonix,World Cup
+1300,IFSC World Cup Briançon 2023,13/7/23,15/7/23,Briançon,World Cup
+1301,IFSC World Championships Bern 2023,31/7/23,12/8/23,Bern,World Championship
+1304,IFSC Youth World Championships Seoul 2023,17/8/23,27/8/23,South Korea,World Championship
+1305,European Games Krakow-Malopolska 2023,20/6/23,2/7/23,Tarnow,Other
+1306,Asian Games Hangzhou 2022,22/9/23,8/10/23,Hangzhou,Other
+1307,Pan American Games Santiago 2023,20/10/23,26/10/23,Santiago,Other
+1309,IFSC European Qualifier Rome 2023,14/9/23,15/9/23,Rome,Other
+1310,IFSC Asian Qualifier Jakarta 2023,8/11/23,12/11/23,Jakarta,Other
+1311,IFSC Oceania Qualifier Melbourne 2023,23/11/23,26/11/23,Melbourne,Other
+1312,IFSC African Qualifier Pretoria 2023,6/12/23,9/12/23,Pretoria,Other
+1314,International Climbing Series - Studio Bloc Master - Pfungstadt (GER) 2023,10/3/23,12/3/23,Pfungstadt,Other
+1315,IFSC Asia - Continental Cup (B) - Manila (PHI) 2022,4/11/22,6/11/22,Manila,Continental
+1316,IFSC Asia - K Continental Championships - Jamshedpur (IND),8/12/22,11/12/22,Jamshedpur,Continental
+1317,IFSC European Cup Chambéry 2023,6/4/23,8/4/23,Chambéry,Continental
+1318,IFSC European Cup Loverval 2023,26/5/23,28/5/23,Loverval,Continental
+1320,IFSC European Cup Liébana 2023,11/5/23,14/5/23,Liébana,Continental
+1321,IFSC Europe - Continental Youth Cup (B) - Soure (POR) 2023,21/4/23,23/4/23,Soure,Continental
+1322,IFSC Europe - Continental Youth Cup (B) - Kaunas (LTU) 2023,27/4/23,30/4/23,Kaunas,Continental
+1323,IFSC Europe - Continental Youth Cup (B) - Graz (AUT) 2023,4/5/23,7/5/23,Graz,Continental
+1324,IFSC European Cup Žilina 2023,20/7/23,22/7/23,Žilina,Continental
+1325,IFSC European Cup Innsbruck 2023,11/6/23,12/6/23,Innsbruck,Continental
+1326,IFSC Europe - Continental Youth Cup (L) - Niederwangen (SUI) 2023,16/6/23,18/6/23,Niederwangen,Continental
+1327,IFSC Europe - Continental Youth Cup (L) - St. Pierre en Faucigny (FRA) 2023,23/6/23,25/6/23,St. Pierre en Faucigny,Continental
+1328,"IFSC Europe - Continental Youth Cup (L,S) - Imst (AUT) 2023",29/6/23,2/7/23,Imst,Continental
+1329,"IFSC Europe - Continental Youth Championship (B,S) - Duisburg (GER) 2023",7/6/23,11/6/23,Duisburg,Continental
+1331,IFSC European Cup Tarnów 2023,31/3/23,2/4/23,Tarnów,Continental
+1332,IFSC Europe - Continental Youth Cup (S) - Tarnów (POL) 2023,31/3/23,2/4/23,Tarnów,Continental
+1336,IFSC European Cup Bologna 2023,1/9/23,3/9/23,Bologna,Continental
+1342,IFSC Asia - Continental Youth Cup (S) - Singapore (SGP) 2023,7/7/23,8/7/23,Singapore,Continental
+1347,IFSC South American Cup Mar del Plata 2023,15/12/23,18/12/23,Mar del Plata,Continental
+1351,NEOM IFSC Masters 2023,21/11/23,24/11/23,Neom Beach Games Mountain Village,Other
+1353,IFSC World Cup Keqiao 2024,7/4/24,10/4/24,Keqiao,World Cup
+1354,IFSC World Cup Wujiang 2024,11/4/24,14/4/24,Wujiang,World Cup
+1355,IFSC World Cup Salt Lake City 2024,3/5/24,6/5/24,Salt Lake CIty,World Cup
+1356,IFSC World Cup Innsbruck 2024,25/6/24,30/6/24,Innsbruck,World Cup
+1357,IFSC World Cup Chamonix 2024,11/7/24,14/7/24,Chamonix,World Cup
+1358,IFSC World Cup Briançon 2024,16/7/24,19/7/24,Briancon,World Cup
+1359,IFSC World Cup Koper 2024,5/9/24,7/9/24,Koper,World Cup
+1360,IFSC World Cup Prague 2024,19/9/24,22/9/24,Prague,World Cup
+1361,IFSC World Cup Seoul 2024,2/10/24,6/10/24,Seoul,World Cup
+1363,IFSC Youth European Cup Lublin 2024,16/3/24,17/3/24,Lublin,Continental
+1365,IFSC Youth European Cup Soure 2024,19/4/24,21/4/24,Soure,Continental
+1366,IFSC European Cup Klagenfurt 2024,25/4/24,27/4/24,Klagenfurt,Continental
+1367,IFSC Youth European Cup Graz 2024,2/5/24,5/5/24,Graz,Continental
+1368,IFSC Youth European Cup Mezzolombardo 2024,23/5/24,25/5/24,Mezzolombardo,Continental
+1369,IFSC European Cup Mezzolombardo 2024,24/5/24,25/5/24,Mezzolombardo,Continental
+1371,IFSC Youth European Cup Dornbirn 2024,12/7/24,14/7/24,Dornbirn,Continental
+1372,IFSC Youth European Cup Žilina 2024,18/7/24,21/7/24,Žilina,Continental
+1373,IFSC European Cup Casalecchio di Reno 2024,13/9/24,15/9/24,,Continental
+1375,IFSC Youth European Championships Troyes 2024,24/9/24,29/9/24,Troyes,Continental
+1376,IFSC European Cup Lublin 2024,15/3/24,16/3/24,Lublin,Continental
+1377,IFSC Youth European Cup Curno 2024,4/4/24,7/4/24,Curno,Continental
+1378,IFSC European Cup Augsburg 2024,20/6/24,22/6/24,Augsburg,Continental
+1379,IFSC Youth European Cup Ostermundigen 2024,20/9/24,22/9/24,Ostermundigen,Continental
+1381,IFSC European Championships Villars 2024,26/8/24,1/9/24,Villars,Continental
+1383,IFSC European Cup Innsbruck 2024,23/6/24,24/6/24,Innsbruck,Continental
+1384,Olympic Qualifier Series Shanghai 2024,15/5/24,19/5/24,Shanghai,Other
+1385,Olympic Qualifier Series Budapest 2024,19/6/24,23/6/24,Budapest,Other
+1389,Studio Bloc Masters 2024,8/3/24,10/3/24,Pfungstadt,Other
+1390,IFSC European Cup Genova 2024,4/10/24,6/10/24,Genova,Continental
+1392,FISU University Championships Koper 2024,8/9/24,12/9/24,Koper,Continental
+1393,IFSC South America Cup Curitiba 2024,14/12/24,21/12/24,Curitiba,Continental
+1394,IFSC South America Cup Mar del Plata 2024,29/11/24,2/12/24,Mar del Plata,Continental
+1396,IFSC Youth World Championships Guiyang 2024,21/8/24,31/8/24,Guiyang,World Championship
+1397,IFSC Asian Championships Tai'an 2024,9/10/24,14/10/24,Tai'an,Continental
+1398,IFSC Youth Asian Championships Jamshedpur 2024,13/11/24,17/11/24,Jamshedpur,Continental
+1400,IFSC South America Cup Ibarra 2024,15/10/24,21/10/24,"Ibarra, ECU",Continental
+1401,IFSC Pan American Championships Santiago 2024,20/11/24,25/11/24,Santiago,Continental
+1402,IFSC Madrid 4 Speed,19/10/24,20/10/24,"Madrid, ESP",Other
+1404,NEOM IFSC Masters 2024,10/11/24,13/11/24,Neom,Other
+1423,IFSC Oceania Championships Perth 2024,15/11/24,17/11/24,Perth,Continental
+1443,IFSC Oceania Championships Sydney 2024,6/12/24,8/12/24,Sydney,Continental
