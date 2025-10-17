@@ -4,3 +4,17 @@ aclImdb_v1.tar.gz
 1. Learning/Hands On Machine Learning/my_california_housing_model.pkl
 1. Learning/Hands On Machine Learning/my_mnist.mmap
 1. Learning/Hands On Machine Learning/lucid-bond-463306-k8-1062e758e5e5.json
+**/.DS_Store
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+1.\ Learning/.DS_Store
+1.\ Learning/Applied Stats Learning/.DS_Store
+1.\ Learning/Regression & Other Stories/.DS_Store
+1.\ Learning/Veridical Data Science/.DS_Store
+1.\ Learning/Veridical Data Science/5. Exploratory Data Analysis/.DS_Store
+1.\ Learning/Veridical Data Science/5. Exploratory Data Analysis/organ_donations/.DS_Store
+1.\ Learning/Veridical Data Science/6. Principal Component Analysis/.DS_Store
+1.\ Learning/Veridical Data Science/6. Principal Component Analysis/nutrition/.DS_Store
+1.\ Learning/Veridical Data Science/practice projects/.DS_Store
+2.\ Application/.DS_Store
